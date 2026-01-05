@@ -1,0 +1,11 @@
+**Record:**  
+*   **Timestamp:** 2022-07-14T11:17:37  
+*   **Participants:** Liss, Joseph Prinse  
+*   **Summary:** Liss and Joseph coordinate a quick delivery of a package to the depot during Liss’s lunch break. The plan involves dropping off the parcel after her shift at 3 PM. Liss confirms the location (“store depot”) and that the package is similar to a previous one. During the drop‑off, police or border patrol stop them outside the depot; the officers note that the car is on a watchlist and demand papers. Liss expresses shock and demands an explanation, citing that Joseph had mentioned the items were “car parts.”  
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1  
+
+**Record:**  
+*   **Timestamp:** 2022-07-11T09:56:45  
+*   **Participants:** 08289699759@s.whatsapp.net, 94773172655-1632236597@g.us  
+*   **Summary:** A group message advertises an online cake‑making class starting on Friday, 15 July. The sender requests participants to pay Rs 1000 for enrollment and provides bank details: account number **8040107964** (Commercial Bank, Kandy), alternate numbers **88575479** (Bank of Ceylon, Kandy Branch) and cash **0779767744**. Participants are asked to send a photo of the deposit slip to join the main group.  
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-2

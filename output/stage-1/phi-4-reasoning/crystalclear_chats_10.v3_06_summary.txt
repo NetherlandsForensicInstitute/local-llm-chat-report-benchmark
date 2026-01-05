@@ -1,0 +1,23 @@
+Record:
+*   **Timestamp:** 2022-07-04T15:29:59
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** This record captures a logistics and security discussion between Liss and Joseph Prinse regarding the delivery of a package. The conversation begins with arranging a quick pickup/delivery to a store depot (with instructions such as “not before 15:00” and confirmation that it is the same depot as last time), followed by escalating security concerns when Liss reports being stopped by police near the depot, questioned about papers, and threatened with arrest. The discussion includes coordination on timing, secure travel (e.g., taking coffee, avoiding being followed), and implied threats between the parties.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a
+
+Record:
+*   **Timestamp:** 2022-07-11T10:20:38
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** This record details coordination for the pickup of Quan at IJmuiden airport on 21 July. The message instructs Joseph to pick up Quan with a specific address provided – “Bronsstraat 8, 1976 BC, IJmuiden” – and includes the contact number (“0031647941638”). Later messages express concerns about security (“Lizz knows too much”) and potential issues if arrangements are not followed.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3
+
+Record:
+*   **Timestamp:** 2022-07-12T04:45:17
+*   **Participants:** Joseph Prinse, Quan Xiuan
+*   **Summary:** This record captures coordination for an airport pickup. Joseph instructs Quan to provide his flight details so that he can arrange a pickup at the exit upon landing. The conversation clarifies meeting points near AKO and confirms Quan’s arrival and location.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-4
+
+Record:
+*   **Timestamp:** 2022-07-05T07:58:23
+*   **Participants:** antonio gotta, nb
+*   **Summary:** This record involves a discussion of a business deal that includes logistics and financial transactions. The conversation begins with arranging for a UK client to inspect a lab prior to delivery in exchange for an advance payment. Subsequent messages confirm receipt of payment, discuss invoice requests (including a June invoice), mention plans to purchase a Patek watch, and then reference “delivered drugs” to be paid in Bitcoins – indicating coded language for illegal substance transactions.
+*   **Trace ID:** 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0

@@ -1,0 +1,23 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:14:06
+*   **Participants:** Nerijus Bos, Rosie Boudica (Rosie)
+*   **Summary:** Discussion about logistics and transport strategies. Rosie advises against using mules and suggests using freight routes to hide "goods" in packages, noting that sniffer dogs are effective. She mentions removing "goods" during periodic checks and proposes canceling checks on specific days. Financial transaction details later discussed include a bank transfer to NL40 ABNA 665599774 for Rosie Fashion.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:14:06
+*   **Participants:** Nerijus Bos, Rosie Boudica (Rosie)
+*   **Summary:** Financial transaction coordination. Rosie requests confirmation of Eleanor Reyes transfer amount and provides bank account details (NL40 ABNA 665599774). Nerijus agrees to transfer funds upon successful transport.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:08
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Arrangement for Joseph to pick up Quan Xiuan at the airport on July 21. Address provided: Bronsstraat 8, IJmuiden. Quan's contact number shared.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:43
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:** Security concern raised by Joseph about Liss being spotted with one of his cars at the depot and "nasty questions" from authorities. Nerijus agrees to send her a "clear message."
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7

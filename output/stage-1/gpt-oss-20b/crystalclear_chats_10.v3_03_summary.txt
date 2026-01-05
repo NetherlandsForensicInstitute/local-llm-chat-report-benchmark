@@ -1,0 +1,23 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:16:15
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie informs Nerijus that if a periodic security check occurs they must remove goods from the office; she suggests canceling or rescheduling the check. She proposes Friday as the optimal day due to fewer people in the office and agrees to adjust the schedule accordingly. No monetary amounts are discussed.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:17:47
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie confirms that an email request has been completed and asks how many euros will be transferred. She instructs the transfer of funds to Dutch bank account NL40 ABNA 665599774 belonging to Rosie Fashion. Nerijus acknowledges that transport success will result in the money arriving, though no specific amount is mentioned.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:26:04
+*   **Participants:** Nerijus Bos, Liss
+*   **Summary:** After a port incident in which Liss was spotted with Joseph’s car at the depot and received hostile questioning, Nerijus warns Liss not to contact police. The message is an explicit threat of intimidation or retaliation against potential law enforcement involvement.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-33
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:12:09
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus requests that Joseph pick up Quan at the airport on 21 July. He provides the pickup location (Bronsstraat 8, 1976 BC, IJmuiden) and supplies Quan’s phone number (0031647941638). Joseph confirms he will arrange the pickup.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7

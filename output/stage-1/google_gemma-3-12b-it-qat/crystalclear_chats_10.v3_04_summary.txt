@@ -1,0 +1,132 @@
+---
+**Record:**
+*   **Timestamp:** 2020-12-01T08:00:47
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** DeFiMillion is breaking the ICE. DEMI Price is $190 per 1DEMI. Instructions to trade on Uniswap with a support contact for bonus purchases.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-08T10:15:28
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Best time to Andi Cordova in DEMI - Why?  Discusses various methods for profit (staking, private sale, trading) and highlights the limited-time opportunity with a 50% bonus.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-16T10:15:28
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Best time to Andi Cordova in DEMI - Why?  Discusses various methods for profit (staking, private sale, trading) and highlights the limited-time opportunity with a 50% bonus.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-20T06:50:30
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:**  Highlights the opportunity to invest in DEMI.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-22T12:32:09
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:**  A reminder to invest in DEMI and get success. Details about staking program and trading activities with bonuses for holders.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-24T11:33:28
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Last chance to buy DEMI with a 50% discount. Details about bonus tokens and link to DeFimillion website.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-28T07:11:59
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Final hours of the private sale with a 70% bonus. Details about the bonuses and link to DeFimillion website.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-29T07:20:45
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Last two days of private sale with a 70% bonus. Details about the bonuses and link to DeFimillion website.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2020-12-31T13:56:04
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:**  Last day of private sale with a 50% discount. Details about the bonuses and link to DeFimillion website.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-01-03T11:48:06
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Launch of a bonus program for DEMI stakers. Details about the bonus rates and giveaway details.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-02-22T12:14:01
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** An update about an upcoming project.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-04-09T13:22:18
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing a competition with a $100 USDT prize pool. Details about the competition and links to join.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-04-12T18:49:37
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Introducing CleanDefi and its airdrop with up to 10,000 CDFI tokens for winners. Details about the project and how to participate in the airdrop.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-04-17T19:28:57
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing an IDylan Ballard for Wren Xiong.io with potential for significant gains. Details about the project and a link to participate in the IDylan Ballard.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-04-21T09:13:35
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing the launch of SpaceMine Wallet and Bryant Herrera with a giveaway. Details about the project and how to participate in the giveaway.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-04-25T18:45:27
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing the launch of REIT IDylan Ballard with a $150,000 prize pool. Details about the project and link to participate in the IDylan Ballard.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-05-08T15:15:14
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing a competition to win USDT. Details about the contest and link to join.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-05-10T18:48:53
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Introducing Soules of Nature, a new metaverse project focused on social impact and Bryant Herreras. Details about the project and a link to follow them on Novalee Daniel and their website.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-05-11T20:58:47
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing the IDylan Ballard of CCynthia EllisX with a potential for significant gains. Details about the project and link to participate in the IDylan Ballard.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-05-17T15:26:08
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing the launch of CleanDefi Airdrop with a prize pool of up to 10,000 CDFI tokens. Details about the project and how to participate in the airdrop.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-05-23T18:45:47
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Introducing  REIT and its IDylan Ballard. Details about the project and link to participate in the IDylan Ballard.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+---
+**Record:**
+*   **Timestamp:** 2021-05-25T19:28:17
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Announcing the participation in a 100 USDT giveaway. Details about the contest and link to join.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c

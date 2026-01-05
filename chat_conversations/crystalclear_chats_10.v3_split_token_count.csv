@@ -1,0 +1,14 @@
+filename,conversations,tokens,primary_device,device_breakdown
+.\chat_conversations\crystalclear_chats_10.v3_01.txt,8,7557,01 iPhone 7,'01 iPhone 7' (8 convos)
+.\chat_conversations\crystalclear_chats_10.v3_02.txt,12,28463,01 iPhone 7,'01 iPhone 7' (12 convos)
+.\chat_conversations\crystalclear_chats_10.v3_03.txt,9,6032,01 iPhone 7,'01 iPhone 7' (9 convos)
+.\chat_conversations\crystalclear_chats_10.v3_04.txt,1,29864,01 iPhone 7,'01 iPhone 7' (1 convos)
+.\chat_conversations\crystalclear_chats_10.v3_05.txt,2,26240,01 iPhone 7,'01 iPhone 7' (2 convos)
+.\chat_conversations\crystalclear_chats_10.v3_06.txt,35,28410,02 iPhone 6s Plus,"'02 iPhone 6s Plus' (16 convos), '03 Samsung S20FE' (19 convos)"
+.\chat_conversations\crystalclear_chats_10.v3_07.txt,41,27922,03 Samsung S20FE,"'03 Samsung S20FE' (7 convos), '04 Motorola moto G9 plus' (27 convos), '05 Huawei P smart' (7 convos)"
+.\chat_conversations\crystalclear_chats_10.v3_08.txt,22,28340,05 Huawei P smart,"'05 Huawei P smart' (18 convos), '06 Samsung Galaxy J7' (4 convos)"
+.\chat_conversations\crystalclear_chats_10.v3_09.txt,10,28936,06 Samsung Galaxy J7,'06 Samsung Galaxy J7' (10 convos)
+.\chat_conversations\crystalclear_chats_10.v3_10.txt,31,28917,06 Samsung Galaxy J7,"'06 Samsung Galaxy J7' (12 convos), '07 iPhone11' (19 convos)"
+
+TOTAL (from split files),171,240681,,
+VERIFICATION (from original file),171,,,

@@ -1,0 +1,23 @@
+**Record:**
+*   **Timestamp:** 2022-07-08 07:10:17
+*   **Participants:** Rosie Boudica (Rosie), Nerijus Bos
+*   **Summary:** Consolidated summary of logistics, payment, and security concerns.  The conversation begins with discussions about avoiding detection during "goods" transport ("hiding stuff where the sun doesn't shine does not work", "sniffer dogs are too good").  Rosie suggests using freight routes and removing items if there’s a check. She requests a **€5,000 payment** to account **NL40 ABNA 665599774** of Rosie Fashion by July 15th. On July 15th, Rosie reports "trouble at the port" because “Liss” was seen with Joseph's car and is facing questions.  Nerijus expresses concern ("Ohh shit"). A pickup location is mentioned: **Bronsstraat 8, 1976 BC, IJmuiden**.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-07 08:08:18
+*   **Participants:** Nerijus Bos, Quan Xiuan
+*   **Summary:**  Arrangement for the pickup of a person named "Quan" on July 21st. Joseph Prinse will handle the pickup. Quan's phone number is **0031647941638**.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-6
+
+**Record:**
+*   **Timestamp:** 2022-07-11 10:20:08
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Coordination of a pickup.  Nerijus asks Joseph to pick up "Quan" at the airport on July 21st from **Bronsstraat 8, 1976 BC, IJmuiden**. Quan's phone number is provided: **0031647941638**.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7
+
+**Record:**
+*   **Timestamp:** 2022-07-20 12:10:43
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Discussion of security issues. Joseph reports that "Lizz knows too much" and expresses concern ("What r we gonna do ‘bout this"). Nerijus states he will send her a clear message.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7

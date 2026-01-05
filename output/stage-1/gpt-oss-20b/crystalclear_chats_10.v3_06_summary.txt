@@ -1,0 +1,133 @@
+**Record:**
+*   **Timestamp:** 2022‑07‑14T11:17:03
+*   **Participants:** Liss (Lizzard), Joseph Prinse
+*   **Summary:** Joseph and Liss arrange a quick delivery of a package to the store depot. The package is located on a dresser in the hallway, and the drop‑off will occur after Liss’s shift ends at 15:00. Police stop them outside the depot; they are questioned about a watchlisted vehicle but no further details are provided. Joseph instructs Liss not to be followed and to take the long road home.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1
+
+**Record:**
+*   **Timestamp:** 2022‑07‑11T10:20:09
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus asks Joseph to pick up Quan at the airport on 21 July and deliver him to BronsstraatHarry Benton8,Harry Benton1976 BC, IJmuiden. Joseph agrees. Quan’s phone number (0031647941638) is provided for contact.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3
+
+**Record:**
+*   **Timestamp:** 2022‑07‑05T07:58:23
+*   **Participants:** Antonio Gotta, nb
+*   **Summary:** Antonio requests that nb pay an invoice for June and confirms receipt of the payment. Nb acknowledges the transaction was wired via bank transfer. Later Antonio mentions the delivery of a Patek watch in October; nb confirms that the payment has been wired. The conversation also includes arrangements for drug deliveries paid in Bitcoins.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-14T04:57:16
+*   **Participants:** Joseph Prinse, Liss (Lizzard)
+*   **Summary:** Joseph Prinse instructs Liss to deliver a "package" to a "store depot." After some hesitation, Liss agrees to make the drop-off after 15:00. Later, Liss reports that she was stopped by "police. Or border patrol" right outside the depot because the car was on a watchlist. In response, Joseph instructs her to make sure she is not followed and to take the long road home for security.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-18T08:33:09
+*   **Participants:** Joseph Prinse, Liss (Lizzard)
+*   **Summary:** Liss states she has "evidence of all your so called business" and threatens to go to the police if Joseph Prinse does not sign divorce documents by Monday. Joseph responds with the threat, "You're gonna regret this." Liss later reports that one of Joseph's "buddies" is threatening her with texts and reiterates her intention to go to the police if her demands are not met.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T21:14:49
+*   **Participants:** Liss (Lizzard), Joseph Prinse
+*   **Summary:** Liss reports to Joseph Prinse that one of his "buddies is threatening me with texts" and that she has his number. She threatens to go "straight to the police" if things don't go as she wants and demands her divorce documents be signed by the next day.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-22T11:11:22
+*   **Participants:** Liss (Lizzard), Joseph Prinse
+*   **Summary:** Liss messages Joseph Prinse to inform him that the police came to her door and told her that he had been arrested. She expresses fear that she might be arrested as well.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:09
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus Bos gives Joseph Prinse instructions to pick up an individual named **Quan** at the airport on July 21. Nerijus provides a specific address, **Bronsstraat 8, 1976 BC, IJmuiden**, and Quan's phone number (**0031647941638**). Joseph agrees to the task.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:49
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:** Joseph Prinse tells Nerijus Bos that "Lizz knows too much." Nerijus Bos responds that it is "not good" and states that he will "send her a clear message," indicating a plan for witness intimidation.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3
+---
+**Record:**
+*   **Timestamp:** 2022-07-12T04:45:17
+*   **Participants:** Joseph Prinse, Quan Xiuan (Quan)
+*   **Summary:** Joseph Prinse contacts Quan Xiuan to coordinate a future airport pickup. He asks Quan for his flight details and instructs him to send a message upon landing so he can be picked up at the exit.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-4
+---
+**Record:**
+*   **Timestamp:** 2022-07-14T04:57:16
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Joseph Prinse instructs Liss to deliver a "package" to a "store depot." After some hesitation, Liss agrees to make the drop-off after 15:00. Later, Liss reports that she was stopped by "police. Or border patrol" right outside the depot because the car was on a watchlist. In response, Joseph instructs her to make sure she is not followed and to take the long road home for security.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-18T08:33:09
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Liss states she has "evidence of all your so called business" and threatens to go to the police if Joseph Prinse does not sign divorce documents by Monday. Joseph responds with the threat, "You're gonna regret this." Liss later reports that one of Joseph's "buddies" is threatening her with texts and reiterates her intention to go to the police if her demands are not met.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T21:14:49
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss reports to Joseph Prinse that one of his "buddies is threatening me with texts" and that she has his number. She threatens to go "straight to the police" if things don't go as she wants and demands her divorce documents be signed by the next day.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-22T11:11:22
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss messages Joseph Prinse to inform him that the police came to her door and told her that he had been arrested. She expresses fear that she might be arrested as well.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+---
+**Record:**
+*   **Timestamp:** 2022-07-21T06:56:21
+*   **Participants:** Joseph Prinse, Quan Xiuan (Quan)
+*   **Summary:** Joseph Prinse and Quan Xiuan coordinate the immediate logistics of an airport pickup. Quan messages that he has landed and is in the arrival hall. They arrange to meet near the "AKO" at the "Plaza".
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-14
+---
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:09
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus Bos gives Joseph Prinse instructions to pick up an individual named **Quan** at the airport on July 21. Nerijus provides a specific address, **Bronsstraat 8, 1976 BC, IJmuiden**, and Quan's phone number (**0031647941638**). Joseph agrees to the task.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-3
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:49
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:** Joseph Prinse tells Nerijus Bos that "Lizz knows too much." Nerijus Bos responds that it is "not good" and states that he will "send her a clear message," indicating a plan for witness intimidation.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-3
+---
+**Record:**
+*   **Timestamp:** 2022-07-12T04:45:17
+*   **Participants:** Joseph Prinse, Quan Xiuan
+*   **Summary:** Joseph Prinse contacts Quan Xiuan to coordinate a future airport pickup. He asks Quan for his flight details and instructs him to send a message upon landing so he can be picked up at the exit.
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-4
+---
+**Record:**
+*   **Timestamp:** 2022-07-21T06:56:21
+*   **Participants:** Joseph Prinse, Quan Xiuan (Quan)
+*   **Summary:** Joseph Prinse and Quan Xiuan coordinate the immediate logistics of an airport pickup. Quan messages that he has landed and is in the arrival hall. They arrange to meet near the "AKO" at the "Plaza".
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-c
+---
+**Record:**
+*   **Timestamp:** 2022-07-06T06:46:38
+*   **Participants:** antonio gotta, nb
+*   **Summary:** Antonio Gotta informs "nb" (identified as Nerijus) about a "first deal with the UK." He states that the clients want to inspect the "lab" first and will pay in advance. Antonio instructs Nerijus to arrange the inspection, and Nerijus agrees.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0
+---
+**Record:**
+*   **Timestamp:** 2022-07-08T10:17:11
+*   **Participants:** antonio gotta, nb
+*   **Summary:** Antonio Gotta instructs "nb" (Nerijus) on a new arrangement for their "club in Ibiza," stating that "delivered drugs will be paid in Bitcoins." Nerijus later confirms "Payment has been received" and states "We can deliver."
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0
+---
+**Record:**
+*   **Timestamp:** 2022-07-14T07:51:47
+*   **Participants:** antonio gotta, nb
+*   **Summary:** Antonio Gotta requests payments for multiple invoices from "nb" (Nerijus). Nerijus confirms sending one payment on July 15 and wiring another on July 20.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0
+---

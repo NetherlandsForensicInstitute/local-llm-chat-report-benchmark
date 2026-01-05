@@ -1,0 +1,23 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T11:05:18
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Consolidated summary of a logistics and financial discussion. Rosie Boudica informs Nerijus Bos about the need to hide goods in packages for regular transport. They discuss strategies to avoid detection, including manipulating schedules and canceling checks. A transfer of Eleanor Reyes's is discussed with Rosie providing bank details (NL40 ABNA 665599774) for a payment to “Rosie Fashion.”
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-2-8-3-2-1
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Consolidated summary of a security breach and subsequent communication. Rosie Boudica informs Nerijus Bos about a problem at the port – Liss has been spotted with one of Joseph's cars. This is described as "trouble," suggesting a potential compromise or exposure of illicit activities.  Nerijus Bos expresses concern ("Ohh shit, this isn’t meant to happen!!").
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-0-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-20T13:10:05
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Consolidated summary of a technical assistance request and dinner plan. Rosie Boudica asks for help installing Graphene OS on her new Pixel phone and suggests discussing the details over dinner at 6 PM with a surprise location. This indicates an effort to secure communication channels.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-3-0-3
+
+**Record:**
+*   **Timestamp:** 2022-07-25T13:09:48
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Consolidated summary of a potential trip plan. Rosie Boudica proposes a long weekend to Paris with her paying for the expenses. This indicates a desire for travel and potentially an escape or reward related to ongoing activities.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-0-0-2

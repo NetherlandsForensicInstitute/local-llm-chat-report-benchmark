@@ -1,0 +1,35 @@
+**Record:**
+*   **Timestamp:** 2022-07-08 07:10:17
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Consolidated conversation regarding logistics and schedule adjustments for a potential operation. Discussions center around removing "goods" or checks from the schedule to avoid detection during periodic inspections.  Rosie suggests Friday as a safer day due to lower office traffic. On July 15th, Rosie reports trouble at the port with Liss being spotted near the depot in connection with Joseph's car and facing questioning. Mentions of hiding "goods" in packages for transport are also present, alongside concerns about sniffer dogs and using mules.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-13 11:12:26
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Consolidated summary of financial transaction arrangements. Rosie confirms sending an email request and inquires about the Eleanor Reyes amount to be transferred. Nerijus requests confirmation that she can successfully navigate through July 15th and adjust the schedule accordingly.  Rosie then provides her bank account details: **NL40 ABNA 665599774** under the name **"Rosie Fashion."** Nerijus states payment will be made upon successful transport, and Rosie confirms arrangement.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:43
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:** Discussion of a security concern. Joseph informs Nerijus that Liss knows too much information and asks what they are going to do about it.  Nerijus responds with a plan to send Liss a "clear message."
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7
+
+**Record:**
+*   **Timestamp:** 2022-07-07T08:08:18
+*   **Participants:** Nerijus Bos, Quan Xiuan
+*   **Summary:** Arrangement for the pickup of an individual named Quan. Nerijus informs Quan that Joseph will pick him up on July 21st at **Bronsstraat 8, 1976 BC, IJmuiden**. Quan's phone number is provided as **0031647941638**.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-4
+
+**Record:**
+*   **Timestamp:** 2022-07-13T07:50:49
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus offers boxing tickets to Joseph for an event on Thursday. He explains he is unable to attend but knows Joseph enjoys boxing. The event features **Leilani Floyd vs Artur Bexley Kramer**.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-30
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:26:04
+*   **Participants:** Nerijus Bos, Liss
+*   **Summary:**  Nerijus sends a direct threat to Liss, warning them not to contact the police. The message is prompted by Joseph informing Nerijus that Liss "knows too much."
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-33

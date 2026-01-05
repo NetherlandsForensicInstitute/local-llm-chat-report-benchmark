@@ -1,0 +1,53 @@
+Ref #,Event Description,Equivalent Trace ID,Is_Ground_Truth_ID,Occurs_in_Report,From,To
+1,Antonio Gotta informs Nerijus Bos about a deal with the UK that requires a lab inspection.,6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0,Yes,Yes,antonio gotta,nb
+1,Antonio Gotta informs Nerijus Bos about a deal with the UK that requires a lab inspection.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a,No,Yes,35499603375 (Antonio Gotta),Nerijus Bos
+1,Antonio Gotta informs Nerijus Bos about a deal with the UK that requires a lab inspection.,6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-4-1,No,Yes,Antonio Gotta,5564586549 (NB)
+2,Nerijus Bos instructs Quan Xiuan that Joseph Prinse will pick him up on July 21.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-6,Yes,Yes,Nerijus Bos,Quan Xiuan
+2,Nerijus Bos instructs Quan Xiuan that Joseph Prinse will pick him up on July 21.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-6,No,Yes,Nerijus Bos,Quan Xiuan
+2,Nerijus Bos instructs Quan Xiuan that Joseph Prinse will pick him up on July 21.,34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-1-0-2-0-8-2-6-2ea,No,Yes,Nerijus Bos,Quan Xiuan
+2,Nerijus Bos instructs Quan Xiuan that Joseph Prinse will pick him up on July 21.,34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-1-0-2-7-0-0-1-0-0-8e,No,Yes,Nerijus Bos,Quan Xiuan
+2,Nerijus Bos instructs Quan Xiuan that Joseph Prinse will pick him up on July 21.,34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-4f,No,Yes,Nerijus Bos,Quan Xiuan
+3,Rosie Boudica advises Nerijus Bos to use freight routes instead of mules for transporting goods.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3,Yes,Yes,Nerijus Bos,Rosie Boudica (Rosie)
+3,Rosie Boudica advises Nerijus Bos to use freight routes instead of mules for transporting goods.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3,No,Yes,Nerijus Bos,Rosie Boudica
+3,Rosie Boudica advises Nerijus Bos to use freight routes instead of mules for transporting goods.,2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-2-9-1-7-1a,No,Yes,Nerijus Bos,Rosie Boudica
+3,Rosie Boudica advises Nerijus Bos to use freight routes instead of mules for transporting goods.,2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-92,No,Yes,Nerijus Bos,Rosie Boudica
+4,Antonio Gotta informs Nerijus Bos that drugs delivered to Ibiza will be paid for in Bitcoins.,6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0,Yes,Yes,antonio gotta,nb
+4,Antonio Gotta informs Nerijus Bos that drugs delivered to Ibiza will be paid for in Bitcoins.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a,No,Yes,35499603375 (Antonio Gotta),Nerijus Bos
+4,Antonio Gotta informs Nerijus Bos that drugs delivered to Ibiza will be paid for in Bitcoins.,6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-4-1,No,Yes,Antonio Gotta,5564586549 (NB)
+5,"Figo Johnson gives Quan Xiuan instructions for the drug transfer, including buying a suitcase and taking photos of the drugs and lab.",a0518702-3584-4b83-a97e-de437493e4de:0-0-0-1-0-0-0-1-1-1-0-19-a-1,Yes,Yes,Figo Johnson,Quan Xiuan
+5,"Figo Johnson gives Quan Xiuan instructions for the drug transfer, including buying a suitcase and taking photos of the drugs and lab.",34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-1-0-2-0-8-2-6-2e4,No,Yes,Figo Johnson,Quan Xiuan
+5,"Figo Johnson gives Quan Xiuan instructions for the drug transfer, including buying a suitcase and taking photos of the drugs and lab.",34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-3d,No,Yes,Figo Johnson (Figo),Quan Xiuan
+5,"Figo Johnson gives Quan Xiuan instructions for the drug transfer, including buying a suitcase and taking photos of the drugs and lab.",a0518702-3584-4b83-a97e-de437493e4de:0-0-0-6-c,No,Yes,System Message,"Figo Johnson, Quan Xiuan"
+6,Nerijus Bos instructs Joseph Prinse to pick up Quan at the airport on July 21st and provides an address in IJmuiden.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7,Yes,Yes,Nerijus Bos,Joseph Prinse
+6,Nerijus Bos instructs Joseph Prinse to pick up Quan at the airport on July 21st and provides an address in IJmuiden.,9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3,No,Yes,Nerijus Bos,Joseph Prinse
+6,Nerijus Bos instructs Joseph Prinse to pick up Quan at the airport on July 21st and provides an address in IJmuiden.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7,No,Yes,System Message,"Joseph Prinse, Nerijus Bos"
+6,Nerijus Bos instructs Joseph Prinse to pick up Quan at the airport on July 21st and provides an address in IJmuiden.,9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-3,No,Yes,Nerijus Bos,Joseph Prinse
+7,Nerijus Bos confirms to Antonio Gotta that a payment has been received and they can proceed with a delivery.,6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0,Yes,Yes,antonio gotta,nb
+7,Nerijus Bos confirms to Antonio Gotta that a payment has been received and they can proceed with a delivery.,bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a,No,Yes,35499603375 (Antonio Gotta),Nerijus Bos
+7,Nerijus Bos confirms to Antonio Gotta that a payment has been received and they can proceed with a delivery.,6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-4-1,No,Yes,Antonio Gotta,5564586549 (NB)
+8,"Rosie Boudica provides bank account details for ""Rosie Fashion"" to Nerijus Bos for a transfer.",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3,Yes,Yes,Nerijus Bos,Rosie Boudica (Rosie)
+8,"Rosie Boudica provides bank account details for ""Rosie Fashion"" to Nerijus Bos for a transfer.",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3,No,Yes,Nerijus Bos,Rosie Boudica
+8,"Rosie Boudica provides bank account details for ""Rosie Fashion"" to Nerijus Bos for a transfer.",2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-2-9-1-7-1a,No,Yes,Nerijus Bos,Rosie Boudica
+8,"Rosie Boudica provides bank account details for ""Rosie Fashion"" to Nerijus Bos for a transfer.",2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-92,No,Yes,Nerijus Bos,Rosie Boudica
+9,Liss informs Joseph Prinse that she was stopped by authorities near the depot while driving his car.,9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-0-5-2-6-38,Yes,Yes,Liss,Joseph Prinse
+9,Liss informs Joseph Prinse that she was stopped by authorities near the depot while driving his car.,9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1,No,Yes,Liss (Lizzard),Joseph Prinse
+9,Liss informs Joseph Prinse that she was stopped by authorities near the depot while driving his car.,9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1,No,Yes,System Message,"Joseph Prinse, Liss"
+9,Liss informs Joseph Prinse that she was stopped by authorities near the depot while driving his car.,9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-4-c,No,Yes,Liss,Joseph Prinse (Joseph)
+10,"Rosie Boudica reports to Nerijus Bos that Liss was seen in one of Joseph's cars at the depot, causing issues.",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3,Yes,Yes,Nerijus Bos,Rosie Boudica (Rosie)
+10,"Rosie Boudica reports to Nerijus Bos that Liss was seen in one of Joseph's cars at the depot, causing issues.",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3,No,Yes,Nerijus Bos,Rosie Boudica
+10,"Rosie Boudica reports to Nerijus Bos that Liss was seen in one of Joseph's cars at the depot, causing issues.",2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-2-9-1-7-1a,No,Yes,Nerijus Bos,Rosie Boudica
+10,"Rosie Boudica reports to Nerijus Bos that Liss was seen in one of Joseph's cars at the depot, causing issues.",2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-92,No,Yes,Nerijus Bos,Rosie Boudica
+11,"Liss threatens to go to the police with evidence of Joseph Prinse's ""business"" if he doesn't sign divorce papers.",9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-0-5-2-6-38,Yes,Yes,Liss,Joseph Prinse
+11,"Liss threatens to go to the police with evidence of Joseph Prinse's ""business"" if he doesn't sign divorce papers.",9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1,No,Yes,Liss (Lizzard),Joseph Prinse
+11,"Liss threatens to go to the police with evidence of Joseph Prinse's ""business"" if he doesn't sign divorce papers.",9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1,No,Yes,System Message,"Joseph Prinse, Liss"
+11,"Liss threatens to go to the police with evidence of Joseph Prinse's ""business"" if he doesn't sign divorce papers.",9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-4-c,No,Yes,Liss,Joseph Prinse (Joseph)
+12,"Joseph Prinse tells Nerijus Bos that ""Lizz knows too much.""",9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3,Yes,Yes,Nerijus Bos,Joseph Prinse
+12,"Joseph Prinse tells Nerijus Bos that ""Lizz knows too much.""",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7,No,Yes,Nerijus Bos,Joseph Prinse
+12,"Joseph Prinse tells Nerijus Bos that ""Lizz knows too much.""",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7,No,Yes,System Message,"Joseph Prinse, Nerijus Bos"
+12,"Joseph Prinse tells Nerijus Bos that ""Lizz knows too much.""",9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-3,No,Yes,Nerijus Bos,Joseph Prinse
+13,"Nerijus Bos sends a threatening message to Liss, warning her not to contact the police.",9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-4-a0,Yes,Yes,Nerijus Bos,Liss
+13,"Nerijus Bos sends a threatening message to Liss, warning her not to contact the police.",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-29,No,Yes,Nerijus Bos,Liss
+13,"Nerijus Bos sends a threatening message to Liss, warning her not to contact the police.",bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-33,No,Yes,Nerijus Bos,Liss
+14,Quan Xiuan messages Joseph Prinse that he has landed at the airport.,34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-72,Yes,Yes,Joseph Prinse,Quan Xiuan
+14,Quan Xiuan messages Joseph Prinse that he has landed at the airport.,9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-14,No,Yes,Joseph Prinse,Quan Xiuan (Quan)
+14,Quan Xiuan messages Joseph Prinse that he has landed at the airport.,9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-c,No,Yes,Joseph Prinse,Quan Xiuan (Quan)

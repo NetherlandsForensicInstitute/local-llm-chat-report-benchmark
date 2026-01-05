@@ -1,0 +1,23 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T14:35:46
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss informs Joseph that she was stopped by police near the depot. She states her car is on a watchlist and they demanded her papers without explanation. Liss expresses extreme distress and questions why Joseph's car would be flagged, referencing “packages” being described as "car parts." She returns to the hospital in a state of panic.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-14T11:26:37
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:**  Liss agrees to deliver a package for Joseph on her lunch break after initially being reluctant. She asks if the package is in the hallway or at “that store depot” (same as last time).
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-14T04:57:17
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Joseph asks Liss if she can deliver a package to the depot for him today.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-18T08:30:42
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss confronts Joseph with strong language ("Fuck you, lying asshole") stating she has contacted her lawyer and divorce documents are on the desk, expecting them signed by next Monday. She claims to have "evidence of all your so called business" and threatens police involvement if he doesn't sign.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1-0-1

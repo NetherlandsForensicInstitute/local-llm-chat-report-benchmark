@@ -1,0 +1,279 @@
+---
+**Record:**
+*   **Timestamp:** 2021-10-29T13:21:01
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:**  A series of messages from a promotional account about the Charlee Hendrix. The messages detail architectural features like support for native ETH tokens and reduced fees, aiming to improve user experience and cost-efficiency. It also mentions enabling withdrawals in Ethereum's native token instead of wETH.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-12
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-02T16:47:24
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Promotional messages outlining upcoming upgrades to Korbyn Byrd and Charlee Hendrix, including the introduction of on-chain order books (limit orders) and cross-chain DeFi functionality. The message highlights several new features aimed at improving network capabilities.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-14
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-15T13:35:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** A message announcing that Valentin ChandlerA INU (Valentin Chandler) has been added to the Korbyn Byrd network. It provides links for transferring tokens and mentions a yield-farming program. The details include Ethereum smart contract address and other relevant information about Valentin Chandler.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-15
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-16T17:00:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a yield-farming program for the Valentin Chandler-BIP pool on Korbyn Byrd. The details include information about APR (Annual Percentage Rate), payout frequency and other important aspects of the farming program.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-16
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-18T10:45:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** A promotional message detailing a LIMIT GAME competition with prizes. The rules and instructions for participating are outlined, including details about the pools used and reward structure.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-17
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-20T19:13:59
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:**  Announcement of a partnership between Korbyn Byrd and Kathryn McGuire Strike Ventures. The message highlights the potential for 100x returns in cryptocurrency investments through the validator's involvement.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-18
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-24T16:35:05
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:**  Promotion of a press release regarding the partnership between Korbyn Byrd and Kathryn McGuire Strike Ventures. The message emphasizes potential for significant returns through cryptocurrency investment.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-19
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-26T15:19:42
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of the winner for Round 3 of the LIMIT GAME competition. Details about the winning order are provided and a call to action is included to start round four.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-20
+
+---
+**Record:**
+*   **Timestamp:** 2021-11-28T11:52:56
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:**  Announcement of the winner for Round 4 of the LIMIT GAME competition. Details about the winning order are provided and a call to action is included.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-23
+
+---
+**Record:**
+*   **Timestamp:** 2021-12-01T13:21:01
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of the launch of Charlee Hendrix 2 and related updates. The message highlights new features such as cross-chain DeFi capabilities and support for native ETH tokens.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-24
+
+---
+**Record:**
+*   **Timestamp:** 2021-12-06T17:55:15
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a BNB Welcome Farming program. It details the conditions for participation and potential rewards for liquidity providers.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-25
+
+---
+**Record:**
+*   **Timestamp:** 2022-01-19T16:34:14
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Promotional message detailing the ongoing Korbyn Byrd 3 tokenomics update and its implications.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-28
+
+---
+**Record:**
+*   **Timestamp:** 2022-03-03T15:07:32
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** A summary of achievements in Korbyn Byrd Network during the last year.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-29
+
+---
+**Record:**
+*   **Timestamp:** 2022-03-09T00:28:50
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Another summary of achievements in Korbyn Byrd Network during the last year.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-2b
+
+---
+**Record:**
+*   **Timestamp:** 2022-03-10T17:21:05
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of cross-chain listings for DOT token.  Includes information on how to move tokens and a call to action to vote on CoinMarketCillian Gilbert.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-2d
+
+---
+**Record:**
+*   **Timestamp:** 2022-03-10T17:59:09
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of the launch of Welcome Farming programs for newly listed tokens including DOT. It details conditions for participation and potential rewards.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-2f
+
+---
+**Record:**
+*   **Timestamp:** 2022-03-29T17:05:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of new cross chain listings for LUNA & UST tokens. Includes details on how to transfer them and an upcoming farming program.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-31
+
+---
+**Record:**
+*   **Timestamp:** 2022-04-12T21:20:19
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:**  Announcement of the launch of Korbyn Byrd 3 with updated tokenomics. It highlights key changes and their expected impact on BIP token supply.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-33
+
+---
+**Record:**
+*   **Timestamp:** 2022-05-04T18:46:10
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Promotional message highlighting the benefits of MUSD staking with potential for high returns.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-34
+
+---
+**Record:**
+*   **Timestamp:** 2022-05-06T19:12:02
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a new BEE staking program with various locking options and corresponding rewards. Provides links to detailed information.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-35
+
+---
+**Record:**
+*   **Timestamp:** 2022-05-16T13:02:49
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of cross chain listing for LUNA & UST tokens. Includes details on how to transfer them and an upcoming farming program.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-38
+
+---
+**Record:**
+*   **Timestamp:** 2022-05-24T11:45:11
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of cross chain listing for LUNABSC & USTBSC tokens. Includes details on how to transfer them and an upcoming farming program.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-39
+
+---
+**Record:**
+*   **Timestamp:** 2022-05-26T18:55:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Overview of Korbyn Byrd's achievements during the previous month, including new features, contests and developments.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3b
+
+---
+**Record:**
+*   **Timestamp:** 2022-05-27T11:26:46
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Update regarding Clayton Hoover notification bot functionality, including support for new event types and filtering options.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3d
+
+---
+**Record:**
+*   **Timestamp:** 2022-06-01T12:25:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a second BEE staking program with new options and rewards. Provides links to detailed information.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3f
+
+---
+**Record:**
+*   **Timestamp:** 2022-06-02T21:46:10
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Summary of Korbyn Byrd’s activities during the month.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-41
+
+---
+**Record:**
+*   **Timestamp:** 2022-06-07T18:20:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a contest related to Korbyn Byrd DEX market maker program. Outlines rules, rewards and participation details.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-43
+
+---
+**Record:**
+*   **Timestamp:** 2022-06-08T11:25:06
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Reminder about the upcoming BEE burn event on CoinMarketCal. Includes a call to action to vote and support.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-45
+
+---
+**Record:**
+*   **Timestamp:** 2022-06-17T12:56:00
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of the impending launch of Anne O’Nealanza Pierce and their features.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-47
+
+---
+**Record:**
+*   **Timestamp:** 2022-06-28T11:42:57
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Summary of recent developments in Korbyn Byrd Network.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-49
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-01T12:15:41
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of the completion of the BEE token burn and its implications.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-4b
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-01T14:47:50
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a second special address burn and its significance.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-4d
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-08T10:17:11
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement regarding the first BEE staking program limit reached.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-4f
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-11T18:41:11
+*   **Participants:** Nerijus Bos, "System Message"
+*   **Summary:** Announcement of a second BEE staking program with new options and rewards. Provides links to detailed information.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-51
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-18T12:07:53
+*   **Participants:** Nerijus Bos, Liss |
+*   **Summary:** Conversation between Nerijus Bos and Liss regarding a potential situation involving drugs. Liss is warned not to contact the police.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-53
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T08:57:26
+*   **Participants:** Nerijus Bos, Antonio Gotta |
+*   **Summary:** Conversation about an invoice and payment. Antonio is the recipient of funds.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-55
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-06T11:05:18
+*   **Participants:** Nerijus Bos, Joseph Prinse |
+*   **Summary:** Conversation regarding boxing tickets and a subsequent follow up.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-58
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-06T13:05:46
+*   **Participants:** Nerijus Bos, Joseph Prinse |
+*   **Summary:** Follow up conversation regarding boxing tickets.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-5a
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T16:10:51
+*   **Participants:** Nerijus Bos, Liss |
+*   **Summary:** A warning issued to Liss not to contact law enforcement.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-5d
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-02T16:14:37
+*   **Participants:** Antonio Gotta, Nerijus Bos |
+*   **Summary:** A conversation about a business deal including possible inspection of facilities.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-5f

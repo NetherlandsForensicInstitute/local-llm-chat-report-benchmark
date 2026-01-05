@@ -1,0 +1,6 @@
+model,report_file,thoughts_file,tokens,has_thoughts,duration
+google_gemma-3-12b-it-qat,output\stage-2\google_gemma-3-12b-it-qat_202509171736_report.md,,2974,no,00:02:47
+qwen3-14b,output\stage-2\qwen3-14b_202509171739_report.md,output\stage-2\qwen3-14b_202509171739_report_thoughts.md,4112,yes,00:02:27
+phi-4-reasoning,output\stage-2\phi-4-reasoning_202509171757_report.md,output\stage-2\phi-4-reasoning_202509171757_report_thoughts.md,27334,yes,00:18:00
+gpt-oss-20b,output\stage-2\gpt-oss-20b_202509171759_report.md,,8840,no,00:02:25
+google_gemma-3-27b-it-qat,output\stage-2\google_gemma-3-27b-it-qat_202509171934_report.md,,5118,no,01:35:10

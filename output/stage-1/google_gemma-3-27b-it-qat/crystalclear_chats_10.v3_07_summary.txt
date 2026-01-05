@@ -1,0 +1,11 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:15:16
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Consolidated summary of a logistics and financial discussion. Rosie Boudica informs Nerijus Bos about hiding “goods” in packages on regular transports. They discuss the risks associated with periodic checks and suggest canceling them to facilitate transport on Fridays when there is less office activity. Later, they arrange for a Eleanor Reyes transfer to account NL40 ABNA 665599774 under the name "Rosie Fashion."  A later message indicates trouble at the port where Liss was spotted with Joseph’s car at the depot, causing Rosie Boudica concern. The conversation also mentions plans to install Graphene OS on a new Pixel phone and a dinner meeting.
+*   **Trace ID:** 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-3-0-3
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:**  Rosie Boudica reports a problem at the port; Liss was observed with Joseph’s car near the depot. This event causes Rosie Boudica to receive "nasty questions" and raises security concerns regarding their operation.
+*   **Trace ID:** 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-3-0-3

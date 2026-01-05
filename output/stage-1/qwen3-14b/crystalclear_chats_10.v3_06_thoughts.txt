@@ -1,0 +1,21 @@
+Okay, let's tackle this. The user provided a bunch of chat logs and wants me to extract relevant information based on specific criteria. First, I need to go through each message carefully.
+
+Looking at the WhatsApp conversations between Joseph Prinse and Liss (Lizzard), there are multiple messages about delivering packages to a depot, which falls under logistics & transport. The timestamps around July 14th mention the package being in the hallway on the dresser, and later Liss getting stopped by police near the depot. That seems important. Also, there's a mention of a car being on a watchlist, which relates to threats & security.
+
+Then there's another conversation with Nerijus Bos where Joseph is asked to pick up Quan at the airport on July 21st. That's logistics again. The address provided (Bronsstraat 8, IJmuiden) should be included. Also, later messages between Joseph and Quan about meeting at the airport and near AKO are relevant.
+
+In the Clayton Hoover conversation with antonio gotta, there's a discussion about drug deals, payments in Bitcoin, and arranging deliveries. That definitely hits the logistics & transport and financial transactions criteria. The mention of "drugs" might also be under coded language if it's a code word, but since it's explicit here, it's more straightforward.
+
+There are some messages that seem like spam or promotional content (like the GROW UR Business N Netwrk group), which should be excluded per the exclusion criteria. Also, system messages about encryption can be ignored.
+
+The divorce threats and police involvement between Joseph and Liss relate to threats & security. Even though they argue and mention legal actions, the key points here are the police stopping them and the potential threat of involving the police.
+
+I need to make sure each record is grouped by event. For example, the depot incident on July 14th with the police stop should be one record. The airport pickup for Quan on July 21st is another. The Bitcoin transactions with Antonio Gotta are separate. Also, the financial aspects like invoices and payments need to be in their own records.
+
+I have to check if any messages are about coded language. "Goods" or "lab" might be there, but looking through, I don't see those exact terms except maybe "package" which is already covered under logistics.
+
+Each record needs a timestamp of the first relevant message, participants involved, summary with key actions, locations, outcomes, and the trace ID from the evidence. Need to make sure not to include mundane chats or spam. Also, ensure that if there's a time gap, like between July 14th and July 21st, they are separate records.
+
+Double-checking for any financial transactions: Joseph mentions invoices and payments with Antonio Gotta, which should be included under financial transactions. The Bitcoin payment is also relevant here.
+
+I think that covers the main points. Now structure each record with the required fields and ensure no markdown is used, just plain text blocks as specified.

@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:14:06
+*   **Participants:** Nerijus Bos, Rosie Boudica (Rosie)
+*   **Summary:** The participants discuss switching from using mules to freight routes for their transport operations in response to periodic checks. They note that on days when inspections occur, they must cancel a check and “remove the goods” – indicating coded language for concealing shipments. Key actions include altering delivery methods and scheduling adjustments.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:14:06
+*   **Participants:** Nerijus Bos, Rosie Boudica (Rosie)
+*   **Summary:** The conversation coordinates a financial transaction tied to transport operations. Rosie inquires about the number of Eleanor Reyess to be transferred; Nerijus requests confirmation on ensuring transit through July 15 and adjusting the schedule accordingly. Rosie confirms the arrangement and instructs a transfer to bank account NL40 ABNA 665599774 for “Rosie Fashion,” with funds contingent upon successful transport.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Nerijus Bos, Rosie Boudica (Rosie)
+*   **Summary:** Rosie alerts Nerijus to an incident at the port where Liss was spotted with one of Joseph's cars at a depot. She expresses concern over “nasty questions” and potential exposure. Nerijus reacts strongly, indicating that the situation is highly problematic.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-07T08:08:18
+*   **Participants:** Nerijus Bos, Quan Xiuan
+*   **Summary:** A pickup coordination is arranged for July 21 when Joseph will collect Quan. Nerijus informs Quan of the plan and provides his phone number (0031647941638). Quan confirms acceptance of the scheduled pickup.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-6
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:08
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** The participants plan an airport pickup on July 21 at Bronsstraat 8, 1976 BC, IJmuiden. Nerijus instructs Joseph to collect Quan and provides his phone number (0031647941638). Later, Joseph raises a concern that “Lizz knows too much,” prompting Nerijus to state he will send her a clear message.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7

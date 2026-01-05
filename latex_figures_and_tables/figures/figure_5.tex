@@ -1,0 +1,62 @@
+% Set a compatibility version for pgfplots for stable output
+\pgfplotsset{compat=1.18}
+
+\begin{figure}[ht!]
+    \centering
+    \resizebox{0.5\textwidth}{!}{    
+    \begin{tikzpicture}
+        \begin{axis}[
+            title={Trade-off: Report Generation Time vs. Performance of Report},
+            xlabel={Report Performance Score (Final Weighted)},
+            ylabel={Report Generation Time (minutes, log scale)},
+            xmin=0.40, xmax=0.90,
+            ymode=log,
+            log basis y=10,
+            ymin=2, ymax=120,
+            ytick={2,3,10,30,100},
+            yminorgrids=true,
+            axis lines=left,
+            grid=major,
+            enlarge limits=0.05,
+            width=0.95\textwidth,
+            height=8cm,
+            legend style={
+                at={(0.03,0.97)},
+                anchor=north west,
+                align=left,
+            },
+        ]
+
+        % Data: Final Weighted score (X), Stage-2 time in minutes (Y)
+        % gpt-oss-20b: 0.77, 2m25s = 2.4167
+        % phi-4-reasoning: 0.71, 18m00s = 18.0
+        % qwen3-14b: 0.60, 2m27s = 2.45
+        % gemma-3-27b-it-qat: 0.57, 1h35m10s = 95.1667
+        % gemma-3-12b-it-qat: 0.43, 2m47s = 2.7833
+
+        \addplot+[only marks, mark=*, mark size=3pt, blue]
+            coordinates {(0.77, 2.4167)};
+        \addlegendentry{gpt-oss-20b}
+
+        \addplot+[only marks, mark=square*, mark size=3pt, red]
+            coordinates {(0.71, 18.0)};
+        \addlegendentry{phi-4-reasoning}
+
+        \addplot+[only marks, mark=triangle*, mark size=3.5pt, green!60!black]
+            coordinates {(0.60, 2.45)};
+        \addlegendentry{qwen3-14b}
+
+        \addplot+[only marks, mark=diamond*, mark size=4pt, orange]
+            coordinates {(0.57, 95.1667)};
+        \addlegendentry{gemma-3-27b-it-qat}
+
+        \addplot+[only marks, mark=star, mark size=3.5pt, purple]
+            coordinates {(0.43, 2.7833)};
+        \addlegendentry{gemma-3-12b-it-qat}
+
+        \end{axis}
+    \end{tikzpicture}
+    }
+    \caption{Trade-off between overall report performance (Final Weighted score) and Stage-2 report generation time on a logarithmic scale. Lower is faster; higher is better.}
+    \label{fig:performance_vs_time_legend}
+\end{figure}

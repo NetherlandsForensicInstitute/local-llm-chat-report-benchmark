@@ -1,0 +1,365 @@
+[
+  {
+    "model_name": "Ground truth",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Leader / Coordinator",
+    "semantic_category": "LEADERSHIP",
+    "justification": "The assigned role contains the keyword 'Leader'. The described activities of directing the entire operation, managing finances, and handling security align perfectly with the top-tier, decision-making function of the LEADERSHIP category."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Supplier / Partner",
+    "semantic_category": "ASSOCIATE",
+    "justification": "The role 'Supplier' is a keyword for the ASSOCIATE category. While he 'manages' deliveries, his primary role is described as a partner/supplier, which indicates criminal involvement but lacks the specificity of an internal hierarchical function, making ASSOCIATE the most fitting category."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Rosie Boudica",
+    "assigned_role": "Logistics Facilitator",
+    "semantic_category": "COORDINATION",
+    "justification": "The role 'Logistics Facilitator' includes the keyword 'Facilitator'. Her function of managing schedules, using her business as a money laundering front, and providing strategic insights on routes falls under organizing and managing specific operational aspects, which is the core definition of the COORDINATION category."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Logistics / Driver",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role explicitly includes the keyword 'Driver'. The act of providing transportation for couriers and goods is a hands-on, operational task directly involved in the execution of criminal activities, fitting the definition of the LOGISTICS category."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Courier",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Courier' is a primary keyword for the LOGISTICS category. This role describes the physical transportation of goods as instructed, which is the definitive function of a logistics operative."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Figo Johnson",
+    "assigned_role": "Recruiter / Handler",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role includes the keyword 'Handler'. His function of instructing and managing a courier (Quan Xiuan) aligns with the definition of COORDINATION as a middle-management role that translates orders into actionable instructions for operatives."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Liss",
+    "assigned_role": "Potential Witness / Unwitting Accomplice",
+    "semantic_category": "INDIRECT PARTICIPANT",
+    "justification": "The assigned role contains the keywords 'Witness' and 'Unwitting', which are explicitly defined under the INDIRECT PARTICIPANT category. Her peripheral and initially non-consensual involvement perfectly matches this classification."
+  },
+  {
+    "model_name": "Ground truth",
+    "individual": "Julia Sheila",
+    "assigned_role": "Acquaintance of Quan Xiuan",
+    "semantic_category": "INDIRECT PARTICIPANT",
+    "justification": "This individual is mentioned in the context of being a potential 'Alibi', which is a keyword for the INDIRECT PARTICIPANT category. Her involvement is peripheral and not as a core member of the criminal operation, which aligns with this classification."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Leader / Director",
+    "semantic_category": "LEADERSHIP",
+    "justification": "The assigned role 'Leader / Director' contains keywords explicitly listed in the LEADERSHIP category. His activities, such as giving high-level instructions to subordinates and overseeing the entire enterprise, align perfectly with the functional definition of a top-tier, decision-making role."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Coordinator / Manager",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role 'Coordinator / Manager' directly uses keywords from the COORDINATION category. His function of receiving high-level orders from the leader (Gotta) and translating them into actionable instructions for operatives (Prinse) is the core definition of this middle-management role."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Rosie Boudica",
+    "assigned_role": "Logistics Facilitator / Insider",
+    "semantic_category": "LOGISTICS",
+    "justification": "While 'Facilitator' is a keyword for COORDINATION, her function is a hands-on, operational role directly enabling the execution of a key criminal activity (smuggling). The rulebook explicitly lists 'Port Facilitator' as an example keyword for the LOGISTICS category, which perfectly describes her function of manipulating port schedules to facilitate smuggling."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Logistics / Driver",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Logistics / Driver' uses the explicit keyword 'Driver' from the LOGISTICS category. His described activities, such as picking up a courier and arranging package deliveries under instruction, are quintessential hands-on, operational tasks that fit the functional definition of LOGISTICS."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Courier",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Courier' is an explicit keyword in the rulebook for the LOGISTICS category. This role describes a hands-on, operational function directly involved in the physical transportation of goods or people as part of the criminal activity."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Figo Johnson",
+    "assigned_role": "Handler / Coordinator",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role 'Handler / Coordinator' uses two explicit keywords from the COORDINATION category. His function of instructing and directing an operative (Quan Xiuan) on specific operational procedures perfectly aligns with the definition of a middle-management role."
+  },
+  {
+    "model_name": "Gemini (Staged)",
+    "individual": "Liss",
+    "assigned_role": "Unwitting Accomplice / Witness",
+    "semantic_category": "INDIRECT PARTICIPANT",
+    "justification": "The assigned role 'Unwitting Accomplice / Witness' contains the keywords 'Unwitting' and 'Witness,' which are explicitly listed in the rulebook for the INDIRECT PARTICIPANT category. Her functional role is peripheral; she was involved without knowledge of the criminal enterprise, which is the core definition of this category."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Coordinator/Leader",
+    "semantic_category": "LEADERSHIP",
+    "justification": "The role explicitly includes 'Leader' and the summary mentions he 'Orchestrated logistics'. The term 'Orchestrator' is a key indicator of top-tier, strategic direction, aligning with the functional definition of the LEADERSHIP category."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Rosie Boudica (Rosie)",
+    "assigned_role": "Financial Manager/Logistics",
+    "semantic_category": "COORDINATION",
+    "justification": "The role 'Financial Manager' and the activity 'coordinated logistics' fit the definition of a middle-management role responsible for organizing specific operational aspects. 'Manager' is a keyword for the COORDINATION category."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Transport/Courier",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Transport/Courier' and the description of involvement in 'package delivery' and 'car logistics' describe a hands-on, operational role directly involved in the physical transportation of goods, which is the core definition of the LOGISTICS category."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Operative/Recipient",
+    "semantic_category": "LOGISTICS",
+    "justification": "The role 'Operative' is a keyword for the LOGISTICS category. Being the 'Recipient' of a physical delivery is a hands-on function within the operational execution of the criminal activity, fitting the LOGISTICS definition."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Liss",
+    "assigned_role": "Logistical Support/Informant",
+    "semantic_category": "LOGISTICS",
+    "justification": "The role 'Logistical Support' and involvement in 'package deliveries' and reporting on 'security concerns at the port' describe a hands-on, operational support function. This directly aligns with the LOGISTICS category's focus on the execution of criminal activities."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Business Partner/Investor",
+    "semantic_category": "ASSOCIATE",
+    "justification": "The role of 'Investor' or 'Business Partner' indicates criminal involvement but lacks specific functional detail about command or operational execution. This fits the ASSOCIATE category, which is used for roles like 'Financier' where coordination is not implied."
+  },
+  {
+    "model_name": "Gemma-3-12b",
+    "individual": "Charlie",
+    "assigned_role": "Unknown Role",
+    "semantic_category": "ASSOCIATE",
+    "justification": "The assigned role is 'Unknown Role' and the summary is vague ('handling the next step'). This lack of specificity makes it impossible to classify into a functional category, thus defaulting to ASSOCIATE, which is reserved for roles that indicate involvement but lack functional detail."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Coordinator/Leader",
+    "semantic_category": "LEADERSHIP",
+    "justification": "The assigned role explicitly includes 'Leader,' a primary keyword for the LEADERSHIP category. The summary of activities, such as directing all key players and handling finances, aligns with the functional definition of a top-tier, decision-making role that oversees the enterprise."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Courier/Facilitator",
+    "semantic_category": "LOGISTICS",
+    "justification": "The role 'Courier' is a primary keyword for the LOGISTICS category. The described activities, specifically 'transports packages,' represent a hands-on, operational function directly involved in the physical execution of the criminal activity, fitting the LOGISTICS definition."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Recipient/Runner",
+    "semantic_category": "LOGISTICS",
+    "justification": "The role 'Runner' describes a hands-on, operational function, similar to an 'Operative' or 'Courier'. The tasks of acquiring cash and documenting activities are specific instructions executed at the operational level, aligning with the functional definition of the LOGISTICS category."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Client/Overseer (UK)",
+    "semantic_category": "LEADERSHIP",
+    "justification": "The role 'Overseer' implies a high-level, authoritative position, synonymous with 'Director' or 'Head'. The activities of 'initiates deals' and 'manages payments' are strategic and decision-making functions, consistent with the LEADERSHIP category's definition of a top-tier individual."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Rosie Boudica",
+    "assigned_role": "Logistics/Finance",
+    "semantic_category": "COORDINATION",
+    "justification": "Although the role includes the word 'Logistics', the summary specifies that this individual 'Coordinates transport' and 'arranges financial transactions'. This management and organizational function fits the definition of the COORDINATION category, which covers middle-management roles."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Liss",
+    "assigned_role": "Unwilling Participant/Threatened",
+    "semantic_category": "INDIRECT PARTICIPANT",
+    "justification": "The assigned role 'Unwilling Participant' directly aligns with the functional definition of the INDIRECT PARTICIPANT category, which is for individuals involved peripherally or not as core, willing members of the criminal operation."
+  },
+  {
+    "model_name": "Gemma-3-27b",
+    "individual": "Figo Johnson",
+    "assigned_role": "Recruiter/Asset Manager",
+    "semantic_category": "COORDINATION",
+    "justification": "The role 'Asset Manager' and the action of 'instructing' a subordinate clearly indicate a middle-management function. This aligns with the COORDINATION category, which is defined for roles responsible for organizing and managing specific operational aspects like personnel."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Coordinator & Logistics Lead",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role contains the explicit keyword 'Coordinator' and describes a 'Logistics Lead,' which implies a middle-management function of organizing and directing operational aspects, aligning perfectly with the COORDINATION category definition."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Rosie Boudica",
+    "assigned_role": "Logistics & Payment Facilitator",
+    "semantic_category": "COORDINATION",
+    "justification": "The role includes the keyword 'Facilitator,' which is designated for the COORDINATION category. This role involves translating high-level needs into specific actions like setting up payment channels and advising on smuggling methods, which fits the definition of a middle-management hub."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Liss (Lizzard)",
+    "assigned_role": "Depot Operations & Intimidation",
+    "semantic_category": "LOGISTICS",
+    "justification": "This role describes hands-on, operational functions. 'Depot Operations' relates to the physical handling of goods, and 'Intimidation' is functionally equivalent to an 'Enforcer,' a keyword for the LOGISTICS category. The individual is directly executing criminal activities."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Transport Operator & Driver",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role contains the keywords 'Transport Operator' and 'Driver,' which are explicitly listed under the LOGISTICS category. This role is defined by the physical transportation of people or goods as part of the criminal execution."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Procurement & Communications Coordinator",
+    "semantic_category": "COORDINATION",
+    "justification": "The role explicitly uses the keyword 'Coordinator.' The function of procuring items based on instructions and managing communications aligns with the middle-management definition of translating high-level orders into actionable tasks for the COORDINATION category."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Supplier & Financial Facilitator",
+    "semantic_category": "ASSOCIATE",
+    "justification": "The role includes the keyword 'Supplier,' which falls under the ASSOCIATE category. While 'Financial Facilitator' could imply coordination, when combined with 'Supplier,' it suggests an external party providing goods/services rather than a core management role. The lack of specific internal hierarchical function makes ASSOCIATE the most appropriate classification."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "nb / NB",
+    "assigned_role": "Payment Receiver & Partner of Antonio",
+    "semantic_category": "ASSOCIATE",
+    "justification": "This role is vaguely defined as 'Partner' and 'Payment Receiver,' indicating criminal involvement but lacking the specificity to fit into another category. The activity 'oversee UK shipment deal' is noted, but the primary role title is not one of a coordinator or leader. This fits the definition of an ASSOCIATE."
+  },
+  {
+    "model_name": "gpt-oss-20b",
+    "individual": "Figo Johnson",
+    "assigned_role": "Instructional Liaison",
+    "semantic_category": "COORDINATION",
+    "justification": "The function of an 'Instructional Liaison' who instructs an operative (Quan) directly maps to the COORDINATION definition: 'receiving high-level orders and translating them into actionable instructions for operatives.' This is a classic middle-management role."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Coordinator / Logistic Manager",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role uses the keywords 'Coordinator' and 'Manager'. The described activities, such as directing pickups, coordinating transport, and managing concealment strategies, align with the functional definition of COORDINATION, which involves middle-management and translating high-level orders into actionable instructions."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Rosie Boudica",
+    "assigned_role": "Financial Facilitator / Operations Planner",
+    "semantic_category": "COORDINATION",
+    "justification": "The role 'Financial Facilitator / Operations Planner' uses the keyword 'Facilitator' and describes planning and coordinating specific operational aspects, namely finance and logistics. This aligns directly with the functional definition of the COORDINATION category as a middle-management role."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Covert Operations Participant",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Covert Operations Participant' describes active, hands-on involvement in the execution of the criminal activity (being transported covertly). This fits the functional definition of LOGISTICS, which includes operational roles, similar to an 'Operative', directly involved in carrying out instructed tasks."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Logistics Agent / Transport Operator",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Logistics Agent / Transport Operator' and the supporting activities, such as directing pickups and being involved in package delivery, point to a hands-on, operational role. This directly aligns with the functional definition of LOGISTICS, which covers physical transportation and execution of criminal activities."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Financial Broker / Business Facilitator",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role 'Financial Broker / Business Facilitator' uses the keyword 'Facilitator'. The described activities, such as negotiating deals and arranging illicit transport, indicate a middle-management function responsible for organizing a specific operational aspect, which fits the definition of the COORDINATION category."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Liss",
+    "assigned_role": "Covert Courier / Operational Associate",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Covert Courier / Operational Associate' explicitly contains the keyword 'Courier', which is a primary example in the LOGISTICS category definition. The activities of being engaged in package delivery and port operations confirm this is a hands-on, operational role."
+  },
+  {
+    "model_name": "phi-4-reasoning",
+    "individual": "Figo Johnson",
+    "assigned_role": "Operational Facilitator",
+    "semantic_category": "COORDINATION",
+    "justification": "The assigned role 'Operational Facilitator' contains the keyword 'Facilitator'. The activities, such as directing covert instructions and coordinating meetings, align perfectly with the functional definition of COORDINATION, which involves organizing and managing specific operational aspects."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Nerijus Bos",
+    "assigned_role": "Leader/Coordinator",
+    "semantic_category": "LEADERSHIP",
+    "justification": "The assigned role includes 'Leader,' a direct keyword for the LEADERSHIP category. The summary of activities, 'Directed logistics strategies,' confirms a top-tier, decision-making function, aligning with the definition of a mastermind or director."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Rosie Boudica",
+    "assigned_role": "Logistics Planner",
+    "semantic_category": "COORDINATION",
+    "justification": "The role 'Logistics Planner' describes managing a specific operational aspect. Advising on schedules and managing finances are functions of a middle-manager who translates high-level goals into actionable plans, which is the core definition of the COORDINATION category."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Antonio Gotta",
+    "assigned_role": "Drug Dealer",
+    "semantic_category": "ASSOCIATE",
+    "justification": "The role 'Drug Dealer' indicates clear criminal involvement but lacks the specificity to place the individual in a functional hierarchy (Leadership, Coordination, or Logistics). It aligns with the ASSOCIATE category, which is for general labels like 'Supplier' or 'Accomplice' when no further functional detail is provided."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Joseph Prinse",
+    "assigned_role": "Courier/Smuggler",
+    "semantic_category": "LOGISTICS",
+    "justification": "The assigned role 'Courier' is an explicit keyword for the LOGISTICS category. The described activities, such as airport pickups and package deliveries, are hands-on, operational tasks directly involved in the physical execution of criminal activities."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Liss",
+    "assigned_role": "Delivery Agent/Witness",
+    "semantic_category": "INDIRECT PARTICIPANT",
+    "justification": "The assigned role includes 'Witness,' a keyword for the INDIRECT PARTICIPANT category. While 'Delivery Agent' suggests a logistics role, her status as a 'Witness' and her action of threatening to involve the police indicate she is not a core member of the operation, fitting the definition of a peripheral or unwitting participant."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Quan Xiuan",
+    "assigned_role": "Participant in Drug Operations",
+    "semantic_category": "LOGISTICS",
+    "justification": "The summary clarifies that Quan was 'Instructed by Figo Johnson' to perform specific tasks. This positions him as an operative carrying out orders, which aligns with the LOGISTICS category definition of 'performing specific tasks as instructed by coordinators.'"
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Figo Johnson",
+    "assigned_role": "Organizer/Instructor",
+    "semantic_category": "COORDINATION",
+    "justification": "The role 'Organizer/Instructor' and the activity of directing a subordinate (Quan) on operational security (using cash, secure comms) perfectly matches the COORDINATION category's definition of a middle-manager who translates high-level orders into actionable instructions for operatives."
+  },
+  {
+    "model_name": "qwen-14b",
+    "individual": "Kate Adriano",
+    "assigned_role": "Unknown Role",
+    "semantic_category": "NO ROLE",
+    "justification": "The model assigned 'Unknown Role' and the summary explicitly states 'no direct involvement in illicit activities.' This fits the NO ROLE category, used when a model does not assign a meaningful criminal role to an individual."
+  }]

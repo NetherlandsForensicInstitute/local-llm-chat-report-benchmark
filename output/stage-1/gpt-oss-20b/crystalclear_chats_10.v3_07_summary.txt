@@ -1,0 +1,17 @@
+**Record:**  
+* **Timestamp:** 2022-07-06T06:46:38  
+* **Participants:** Antonio Gotta, NB (5564586549)  
+* **Summary:** Antonio initiates a UK shipment deal and requests that the buyer inspect the lab before delivery. He specifies payment in advance and later sends an invoice for June. NB confirms receipt of payment and states the goods can be delivered. Antonio then requests a second payment to cover a Swiss watch (Patek) which will be delivered in October. On 2022‑07‑25 Antonio reports that the inspection of the goods has failed and urgently asks NB to execute the agreed actions.  
+* **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-4-1  
+
+**Record:**  
+* **Timestamp:** 2022-07-04T12:24:25  
+* **Participants:** Nerijus Bos, Rosie Boudica  
+* **Summary:** The pair plan to smuggle goods hidden in regular transport packages. They discuss scheduling removal of periodic checks on Friday to minimize detection, and mention that a “depot” at the port is involved. Rosie requests transfer of funds to bank account NL40 ABNA 665599774 (Rosie Fashion). On 2022‑07‑15 Rosie reports trouble at the port: Liss was spotted with one of Joseph’s cars at the depot, raising suspicion and prompting urgent action.  
+* **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-3-0-3  
+
+**Record:**  
+* **Timestamp:** 2022-07-11T08:34:23  
+* **Participants:** Figo Johnson, Quan Xiuan  
+* **Summary:** Figo instructs Quan to purchase a suitcase via Marktplaats for cash transfer, then send photos of the suitcase and photos of drugs and the lab via Leona Powers. He also orders Quan to create a Signal account for further contact.  
+* **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-2-9-1-7-1a

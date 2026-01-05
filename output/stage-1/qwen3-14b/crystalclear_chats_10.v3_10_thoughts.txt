@@ -1,0 +1,11 @@
+Okay, let's start by looking at the user's query. They provided a lot of raw chat logs and want me to extract relevant information based on specific criteria.
+
+First, I need to understand the Inclusion Criteria. The key areas are Logistics & Transport, Financial Transactions, Coded Language, Coordination & Instructions, and Threats & Security. Exclusions include spam, system messages, and mundane chats.
+
+Looking through the WhatsApp conversations between Liss and Joseph Prinse, there's a lot of back-and-forth about delivering packages to a depot, which fits under Logistics & Transport. There's also mention of police stopping her at the depot, which relates to Threats & Security. The later messages where they discuss divorce documents and threatening texts from Joseph's buddy fall under Threats & Security as well.
+
+Then there's another WhatsApp conversation with Figo Johnson and Quan Xiuan discussing meeting instructions, buying a suitcase via Marktplaats, sending photos via Leona Powers of drugs and a lab, and using Signal. This includes Logistics (delivering items), Coded Language ("party," "lab"), and Coordination & Instructions. The mention of getting a Signal account for secure communication also fits under Threats & Security.
+
+The cake class messages are spam, so they should be excluded. System messages about encryption are also excluded. The private messages between Liss and Joseph about divorce papers and threats are relevant. The other conversations with Figo and Quan involve drug-related activities, which are likely criminal, hence the need to extract them.
+
+I need to consolidate messages about the same event. For example, the depot delivery and police stop are one record. The later divorce and threats are another. The Figo and Quan's logistics and coded language form a third record. I must ensure each Record has the correct Timestamp, Participants, Summary with key details, and the exact Trace ID.

@@ -1,0 +1,857 @@
+Conversations found on device 05 Huawei P smart (EN) (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310) used by custodian Rosie Boudica (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-13-13)
+
+WhatsApp conversation about 31647926027@s.whatsapp.net containing 40 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-4-0-2)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-19T08:33:27 | From: Rosie Boudica | To: Nerijus Bos | Message: Let's go out for dinner tomorrow
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-19T09:47:41 | From: Rosie Boudica | To: Nerijus Bos | Message: https://vm.tiktok.com/ZMNHGXumN/
+2022-07-20T09:20:26 | From: Nerijus Bos | To: Rosie Boudica | Message: You got you first follower!
+2022-07-20T09:20:36 | From: Nerijus Bos | To: Rosie Boudica | Message: Yeah diner tonight sounds nice
+2022-07-20T13:10:05 | From: Rosie Boudica | To: Nerijus Bos | Message: Can u help me to install Graphene PS?
+2022-07-20T13:10:16 | From: Rosie Boudica | To: Nerijus Bos | Message: OS
+2022-07-20T13:28:01 | From: Nerijus Bos | To: Rosie Boudica | Message: Yes I can, on your new Pixel?
+2022-07-20T13:29:07 | From: Nerijus Bos | To: Rosie Boudica | Message: We can talk about it tonight at diner. I will pick you up at 6PM. Where we are going to eat will be a surprise
+2022-07-22T06:58:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha good to hear
+2022-07-22T06:59:01 | From: Nerijus Bos | To: Rosie Boudica | Message: I think I am going to head out today and take some beautiful photographs
+2022-07-22T06:59:07 | From: Nerijus Bos | To: Rosie Boudica | Message: I will send some your way
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Rosie Boudica | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about 31647926027@s.whatsapp.net containing 29 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-5-0-8)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about 31647926027@s.whatsapp.net containing 42 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-6-0-2)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-19T08:33:27 | From: Rosie Boudica | To: Nerijus Bos | Message: Let's go out for dinner tomorrow
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-19T09:47:41 | From: Rosie Boudica | To: Nerijus Bos | Message: https://vm.tiktok.com/ZMNHGXumN/
+2022-07-20T09:20:26 | From: Nerijus Bos | To: Rosie Boudica | Message: You got you first follower!
+2022-07-20T09:20:36 | From: Nerijus Bos | To: Rosie Boudica | Message: Yeah diner tonight sounds nice
+2022-07-20T13:10:05 | From: Rosie Boudica | To: Nerijus Bos | Message: Can u help me to install Graphene PS?
+2022-07-20T13:10:16 | From: Rosie Boudica | To: Nerijus Bos | Message: OS
+2022-07-20T13:28:01 | From: Nerijus Bos | To: Rosie Boudica | Message: Yes I can, on your new Pixel?
+2022-07-20T13:29:07 | From: Nerijus Bos | To: Rosie Boudica | Message: We can talk about it tonight at diner. I will pick you up at 6PM. Where we are going to eat will be a surprise
+2022-07-22T06:58:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha good to hear
+2022-07-22T06:59:01 | From: Nerijus Bos | To: Rosie Boudica | Message: I think I am going to head out today and take some beautiful photographs
+2022-07-22T06:59:07 | From: Nerijus Bos | To: Rosie Boudica | Message: I will send some your way
+2022-07-25T13:09:48 | From: Rosie Boudica | To: Nerijus Bos | Message: What about a long weekend to Paris, I'm paying!
+2022-07-25T13:10:39 | From: Rosie Boudica | To: Nerijus Bos | Message: Call me tomorrow please❤️
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about 205913120979@s.whatsapp.net containing 2 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-6-0-94)
+2022-07-23T11:58:45 | From: 205913120979@s.whatsapp.net | To: Rosie Boudica | Message: Hi, am Poornesh
+Inviting you to join my Art channel _ Poornesh Gopi
+(promotional SMS)
+Thank you 🙂
+https://youtu.be/pe025ttOmHo
+IG: https://www.instagram.com/reel/CgL7h3Xj8ti/?igshid=MDJmNzVkMjY=
+2022-07-25T13:13:18 | From: Rosie Boudica | To: 205913120979@s.whatsapp.net | Message: Nice!
+
+WhatsApp conversation about 31647926027@s.whatsapp.net containing 40 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-7-0-2)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-19T08:33:27 | From: Rosie Boudica | To: Nerijus Bos | Message: Let's go out for dinner tomorrow
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-19T09:47:41 | From: Rosie Boudica | To: Nerijus Bos | Message: https://vm.tiktok.com/ZMNHGXumN/
+2022-07-20T09:20:26 | From: Nerijus Bos | To: Rosie Boudica | Message: You got you first follower!
+2022-07-20T09:20:36 | From: Nerijus Bos | To: Rosie Boudica | Message: Yeah diner tonight sounds nice
+2022-07-20T13:10:05 | From: Rosie Boudica | To: Nerijus Bos | Message: Can u help me to install Graphene PS?
+2022-07-20T13:10:16 | From: Rosie Boudica | To: Nerijus Bos | Message: OS
+2022-07-20T13:28:01 | From: Nerijus Bos | To: Rosie Boudica | Message: Yes I can, on your new Pixel?
+2022-07-20T13:29:07 | From: Nerijus Bos | To: Rosie Boudica | Message: We can talk about it tonight at diner. I will pick you up at 6PM. Where we are going to eat will be a surprise
+2022-07-22T06:58:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha good to hear
+2022-07-22T06:59:01 | From: Nerijus Bos | To: Rosie Boudica | Message: I think I am going to head out today and take some beautiful photographs
+2022-07-22T06:59:07 | From: Nerijus Bos | To: Rosie Boudica | Message: I will send some your way
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about 31647926027@s.whatsapp.net containing 42 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-8-0-2)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-19T08:33:27 | From: Rosie Boudica | To: Nerijus Bos | Message: Let's go out for dinner tomorrow
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-19T09:47:41 | From: Rosie Boudica | To: Nerijus Bos | Message: https://vm.tiktok.com/ZMNHGXumN/
+2022-07-20T09:20:26 | From: Nerijus Bos | To: Rosie Boudica | Message: You got you first follower!
+2022-07-20T09:20:36 | From: Nerijus Bos | To: Rosie Boudica | Message: Yeah diner tonight sounds nice
+2022-07-20T13:10:05 | From: Rosie Boudica | To: Nerijus Bos | Message: Can u help me to install Graphene PS?
+2022-07-20T13:10:16 | From: Rosie Boudica | To: Nerijus Bos | Message: OS
+2022-07-20T13:28:01 | From: Nerijus Bos | To: Rosie Boudica | Message: Yes I can, on your new Pixel?
+2022-07-20T13:29:07 | From: Nerijus Bos | To: Rosie Boudica | Message: We can talk about it tonight at diner. I will pick you up at 6PM. Where we are going to eat will be a surprise
+2022-07-22T06:58:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha good to hear
+2022-07-22T06:59:01 | From: Nerijus Bos | To: Rosie Boudica | Message: I think I am going to head out today and take some beautiful photographs
+2022-07-22T06:59:07 | From: Nerijus Bos | To: Rosie Boudica | Message: I will send some your way
+2022-07-25T13:09:48 | From: Rosie Boudica | To: Nerijus Bos | Message: What about a long weekend to Paris, I'm paying!
+2022-07-25T13:10:39 | From: Rosie Boudica | To: Nerijus Bos | Message: Call me tomorrow please❤️
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about 205913120979@s.whatsapp.net containing 2 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-8-0-94)
+2022-07-23T11:58:45 | From: 205913120979@s.whatsapp.net | To: Rosie Boudica | Message: Hi, am Poornesh
+Inviting you to join my Art channel _ Poornesh Gopi
+(promotional SMS)
+Thank you 🙂
+https://youtu.be/pe025ttOmHo
+IG: https://www.instagram.com/reel/CgL7h3Xj8ti/?igshid=MDJmNzVkMjY=
+2022-07-25T13:13:18 | From: Rosie Boudica | To: 205913120979@s.whatsapp.net | Message: Nice!
+
+WhatsApp conversation about 31647926027@s.whatsapp.net containing 42 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-9-0-2)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-19T08:33:27 | From: Rosie Boudica | To: Nerijus Bos | Message: Let's go out for dinner tomorrow
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-19T09:47:41 | From: Rosie Boudica | To: Nerijus Bos | Message: https://vm.tiktok.com/ZMNHGXumN/
+2022-07-20T09:20:26 | From: Nerijus Bos | To: Rosie Boudica | Message: You got you first follower!
+2022-07-20T09:20:36 | From: Nerijus Bos | To: Rosie Boudica | Message: Yeah diner tonight sounds nice
+2022-07-20T13:10:05 | From: Rosie Boudica | To: Nerijus Bos | Message: Can u help me to install Graphene PS?
+2022-07-20T13:10:16 | From: Rosie Boudica | To: Nerijus Bos | Message: OS
+2022-07-20T13:28:01 | From: Nerijus Bos | To: Rosie Boudica | Message: Yes I can, on your new Pixel?
+2022-07-20T13:29:07 | From: Nerijus Bos | To: Rosie Boudica | Message: We can talk about it tonight at diner. I will pick you up at 6PM. Where we are going to eat will be a surprise
+2022-07-22T06:58:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha good to hear
+2022-07-22T06:59:01 | From: Nerijus Bos | To: Rosie Boudica | Message: I think I am going to head out today and take some beautiful photographs
+2022-07-22T06:59:07 | From: Nerijus Bos | To: Rosie Boudica | Message: I will send some your way
+2022-07-25T13:09:48 | From: Rosie Boudica | To: Nerijus Bos | Message: What about a long weekend to Paris, I'm paying!
+2022-07-25T13:10:39 | From: Rosie Boudica | To: Nerijus Bos | Message: Call me tomorrow please❤️
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about 205913120979@s.whatsapp.net containing 2 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-9-0-94)
+2022-07-23T11:58:45 | From: 205913120979@s.whatsapp.net | To: Rosie Boudica | Message: Hi, am Poornesh
+Inviting you to join my Art channel _ Poornesh Gopi
+(promotional SMS)
+Thank you 🙂
+https://youtu.be/pe025ttOmHo
+IG: https://www.instagram.com/reel/CgL7h3Xj8ti/?igshid=MDJmNzVkMjY=
+2022-07-25T13:13:18 | From: Rosie Boudica | To: 205913120979@s.whatsapp.net | Message: Nice!
+
+WhatsApp conversation about Unknown containing 3 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-17)
+2022-07-23T11:58:45 | From: 205913120979@s.whatsapp.net (Poornesh Gopi) | To: Rosie Boudica | Message: Hi, am Poornesh
+Inviting you to join my Art channel _ Poornesh Gopi
+(promotional SMS)
+Thank you 🙂
+https://youtu.be/pe025ttOmHo
+IG: https://www.instagram.com/reel/CgL7h3Xj8ti/?igshid=MDJmNzVkMjY=
+2022-07-23T11:58:47 | From: System Message | To: Rosie Boudica, 205913120979@s.whatsapp.net (Poornesh Gopi) | Message: 🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more
+2022-07-25T13:13:18 | From: Rosie Boudica | To: 205913120979@s.whatsapp.net (Poornesh Gopi) | Message: Nice!
+
+WhatsApp conversation about Unknown containing 12 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-2e)
+2022-07-09T06:40:33 | From: 314730530523@s.whatsapp.net (monika jain) | To: Rosie Boudica | Message: *Hello dear*
+
+*Monika jain from delhi*
+
+*I am wholesaler and manufacturer for ladies wear and man's wear kids wear all callection available*
+
+*Cod not available*
+
+*Return refund and exchange policy available*
+
+*Are you interested in online shopping*
+
+*If you interested say yes or no and save my number*
+
+*All collection available*
+2022-07-09T06:40:36 | From: System Message | To: Rosie Boudica, 314730530523@s.whatsapp.net (monika jain) | Message: 🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more
+
+Native Messages conversation about Unknown containing 3 messages between 0 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-4)
+2022-07-04T11:08:08 | From: Lebara | To: Rosie Boudica | Message: Welkom bij Lebara! Begin snel met internetten, bellen en sms'en op lebara.nl/start
+2022-07-04T11:09:11 | From: Lebara | To: Rosie Boudica | Message: Hoi! We hebben je All in bundel opgewaardeerd. Je kan deze meteen gebruiken. Veel belplezier!
+2022-07-04T12:34:56 | From: Lebara | To: Rosie Boudica | Message: Ook op de hoogte blijven van al onze acties? SMS PROMOTIE naar 8800
+
+Native Messages conversation about Unknown containing 2 messages between 0 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-7)
+2022-07-19T09:22:35 | From: +33628782521 | To: Rosie Boudica | Message: [#][TikTok] 004782 is your verification code
+fJpzQvK2eu1
+
+TikTok conversation about Unknown containing 5 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-8)
+2022-07-26T05:42:23 | From: rosieb_fashion (rosieB_FAshion) | To: Nerijus Bos (NerijusBos) | Message: Hi
+2022-07-26T05:42:23 | From: rosieb_fashion (rosieB_FAshion) | To: Nerijus Bos (NerijusBos) | Message: Hi
+
+Dilan Curtis conversation about Unknown containing 2 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-9)
+2022-07-11T15:01:43 | From: 53104959496 (Evie Foster) | To: 54066749265 (Rosie Boudica) | Message: Hey there. Sorry to bother you unannounced, but I'm confident u'll be interested in @sebastiancruzcouture
+
+They're posting some incredibly unique daily fashion looks and are now giving away a FREE luxury Suit to their new followers. I am all about sharing a business that's really motivated me to dress outside of the box. I'm hoping it does it for you 👉 @sebastiancruzcouture
+
+WhatsApp conversation about Unknown containing 8 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-91)
+2022-07-23T00:56:00 | From: 321477011894@s.whatsapp.net | To: Rosie Boudica | Message: Fashionclothes👗👕👔…_59Are you reseller? Or what's spp purchaser.
+WE ARE MANUFACTURERS AND WHOLESALERS OF BEDSHEETS, Dylan BallardMFORTER SETS, FOOT MATS, RAJAI (QUILTS), CURTAINS, DOHAR, BABY SETS, SOFT TOYS, HOME PRODUCTS ETC. FROM PANIPAT, HARYANA.
+
+Keilani Batesding new concept direct factory se ghar which costs you approximate 50% less from retail market or online. 
+We can even dispatch single piece.
+
+* Dylan BallardD (Cash on Delivery) available at minimum cost taken by courier company.
+
+* 100% quality products 
+
+* Dispatch within 24 hours
+
+
+
+
+
+
+* We have more than 5000 followers on ourMadilyn Spears page.
+https://www.facebook.com/factoryseghar
+
+Keilani Batesd 'hi'  if you want to join our what's app group or click on link
+
+https://chat.whatsapp.com/FKXWgo1Se9UERRHdSNgix4
+
+
+
+https://chat.whatsapp.com/FKXWgo1Se9UERRHdSNgix4
+2022-07-23T00:56:02 | From: System Message | To: 321477011894@s.whatsapp.net, Rosie Boudica | Message: 🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more
+
+WhatsApp conversation about Unknown containing 53 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-92)
+2022-07-04T12:24:25 | From: Nerijus Bos | To: Rosie Boudica | Message: Why don’t you answer your phone?
+2022-07-04T12:24:49 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you call me? URGENT!!
+2022-07-08T07:15:16 | From: Rosie Boudica | To: Nerijus Bos | Message: Goods hidden in packages on regular transports
+2022-07-08T07:16:15 | From: Rosie Boudica | To: Nerijus Bos | Message: If there's a periodic check then we have to remove the goods
+2022-07-08T07:17:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Or remove the check from the schedule
+2022-07-08T07:18:31 | From: Rosie Boudica | To: Nerijus Bos | Message: Then Friday is the best day because then there are fewer people at the office
+2022-07-08T07:20:21 | From: Rosie Boudica | To: Nerijus Bos | Message: On those day's I can do something like cancel a check
+2022-07-08T08:32:22 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha
+2022-07-08T08:32:54 | From: Nerijus Bos | To: Rosie Boudica | Message: Alright, thank you for your insight
+2022-07-13T11:12:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Email request done!
+2022-07-13T11:14:05 | From: Rosie Boudica | To: Nerijus Bos | Message: How many Eleanor Reyes's will be transferred?
+2022-07-13T11:15:09 | From: Nerijus Bos | To: Rosie Boudica | Message: Can you get back to making sure we can get through July 15 and can you adjust the schedule?
+2022-07-13T11:15:43 | From: Rosie Boudica | To: Nerijus Bos | Message: Yep, arranged
+2022-07-13T11:17:47 | From: Rosie Boudica | To: Nerijus Bos | Message: Please transfer to NL40 ABNA 665599774 of Rosie Fashion
+2022-07-13T11:18:29 | From: Nerijus Bos | To: Rosie Boudica | Message: Ok, if the transport is successful the money will come your way
+2022-07-15T07:45:25 | From: Rosie Boudica | To: Nerijus Bos | Message: Trouble at the port. Liss has been spotted with one of Joseph's cars at the depot. I'm getting nasty questions!
+2022-07-15T08:53:05 | From: Nerijus Bos | To: Rosie Boudica | Message: Ohh shit, this isn’t meant to happen!!
+2022-07-19T08:33:27 | From: Rosie Boudica | To: Nerijus Bos | Message: Let's go out for dinner tomorrow
+2022-07-04T12:24:58 | From: Nerijus Bos | To: Rosie Boudica | Message: Missed Call
+2022-07-19T09:47:41 | From: Rosie Boudica | To: Nerijus Bos | Message: https://vm.tiktok.com/ZMNHGXumN/
+2022-07-20T09:20:26 | From: Nerijus Bos | To: Rosie Boudica | Message: You got you first follower!
+2022-07-20T09:20:36 | From: Nerijus Bos | To: Rosie Boudica | Message: Yeah diner tonight sounds nice
+2022-07-20T13:10:05 | From: Rosie Boudica | To: Nerijus Bos | Message: Can u help me to install Graphene PS?
+2022-07-20T13:10:16 | From: Rosie Boudica | To: Nerijus Bos | Message: OS
+2022-07-20T13:28:01 | From: Nerijus Bos | To: Rosie Boudica | Message: Yes I can, on your new Pixel?
+2022-07-20T13:29:07 | From: Nerijus Bos | To: Rosie Boudica | Message: We can talk about it tonight at diner. I will pick you up at 6PM. Where we are going to eat will be a surprise
+2022-07-22T06:58:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Haha good to hear
+2022-07-22T06:59:01 | From: Nerijus Bos | To: Rosie Boudica | Message: I think I am going to head out today and take some beautiful photographs
+2022-07-22T06:59:07 | From: Nerijus Bos | To: Rosie Boudica | Message: I will send some your way
+2022-07-04T12:34:36 | From: System Message | To: Rosie Boudica, Nerijus Bos | Message: 🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more
+2022-07-25T13:09:48 | From: Rosie Boudica | To: Nerijus Bos | Message: What about a long weekend to Paris, I'm paying!
+2022-07-25T13:10:39 | From: Rosie Boudica | To: Nerijus Bos | Message: Call me tomorrow please❤️
+2022-07-26T05:49:45 | From: Rosie Boudica | To: Nerijus Bos | Message: Outgoing Call
+2022-07-07T12:13:35 | From: Nerijus Bos | To: Rosie Boudica | Message: Hey Rosie, I need your help. Can we meet tonight?
+2022-07-07T12:43:14 | From: Rosie Boudica | To: Nerijus Bos | Message: Sure, shall we out for dinner? I suggest Mario's
+2022-07-07T12:51:23 | From: Rosie Boudica | To: Nerijus Bos | Message: I have a new car  BTW, with a sticker: Rosie's Fashion Designs.
+2022-07-07T12:54:44 | From: Nerijus Bos | To: Rosie Boudica | Message: Sounds good, we have been at Mario’s before right?
+2022-07-07T12:54:53 | From: Nerijus Bos | To: Rosie Boudica | Message: Ah nice congratulations with your car Rosie!
+2022-07-07T12:57:34 | From: Rosie Boudica | To: Nerijus Bos | Message: go out for dinner is what I wanted to say and yes the same Mario's as last time. 8 o clock ok?
+2022-07-07T13:03:40 | From: Nerijus Bos | To: Rosie Boudica | Message: Yea that is perfect, see you there
+2022-07-08T07:10:17 | From: Rosie Boudica | To: Nerijus Bos | Message: It was nice yesterday, ate a little bit too much 🍕
+2022-07-08T07:11:11 | From: Rosie Boudica | To: Nerijus Bos | Message: I have some ideas for new routes
+2022-07-08T07:12:29 | From: Rosie Boudica | To: Nerijus Bos | Message: Hiding stuff where the sun doesn't shine does not work
+2022-07-08T07:12:57 | From: Rosie Boudica | To: Nerijus Bos | Message: Sniffer dogs are too good
+2022-07-08T07:14:06 | From: Rosie Boudica | To: Nerijus Bos | Message: Using mules is a bad idea. We have to use freight routes
+
+WhatsApp conversation about Unknown containing 2 messages between 2 participants (evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-6-9c)
+2022-07-22T14:39:01 | From: System Message | To: Rosie Boudica, 609408176352@s.whatsapp.net | Message: 🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more
+
+WhatsApp conversation about 31647730075@s.whatsapp.net containing 88 messages between 2 participants (evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-0-5-2-6-38)
+2022-07-04T15:29:59 | From: Liss | To: Joseph Prinse | Message: Where are you?
+2022-07-14T09:12:27 | From: Liss | To: Joseph Prinse | Message: It's a bit of a rush at the hospital today
+2022-07-14T09:12:36 | From: Liss | To: Joseph Prinse | Message: Rather not
+2022-07-14T09:13:03 | From: Liss | To: Joseph Prinse | Message: Cant you ask one of your friends from work?
+2022-07-14T11:17:04 | From: Joseph Prinse | To: Liss | Message: Everyone is busy today
+2022-07-14T11:17:22 | From: Joseph Prinse | To: Liss | Message: Can you do it on your lunch break?
+2022-07-14T11:17:37 | From: Joseph Prinse | To: Liss | Message: It’s gonna be a quick delivery
+2022-07-14T11:17:51 | From: Joseph Prinse | To: Liss | Message: In and out u know
+2022-07-14T11:26:37 | From: Liss | To: Joseph Prinse | Message: 🙄🙄 fine, but not before 15.00.  My shift ends the afternoon
+2022-07-14T11:26:50 | From: Liss | To: Joseph Prinse | Message: I can do a quick drop off afterwards
+2022-07-14T11:27:28 | From: Liss | To: Joseph Prinse | Message: Is the package in the hallway on the dresser?
+2022-07-14T11:28:40 | From: Liss | To: Joseph Prinse | Message: You mean that store depot. Same as last time?
+2022-07-14T11:39:55 | From: Joseph Prinse | To: Liss | Message: Yep
+2022-07-14T11:39:59 | From: Joseph Prinse | To: Liss | Message: Yep
+2022-07-14T11:40:21 | From: Joseph Prinse | To: Liss | Message: Amazing!
+2022-07-14T12:19:35 | From: Liss | To: Joseph Prinse | Message: Ok. I'll see you at dinner
+Your turn to cook🍷🍕
+2022-07-14T14:34:29 | From: Liss | To: Joseph Prinse | Message: Something went wrong
+2022-07-04T15:34:02 | From: Joseph Prinse | To: Liss | Message: 10 minutes!
+2022-07-14T14:35:46 | From: Liss | To: Joseph Prinse | Message: Got stopped right outside the depot. By some police. Or border patrol something
+2022-07-14T14:36:20 | From: Liss | To: Joseph Prinse | Message: They said the car was on some watchlist. Demanded papers, I'd everything
+2022-07-14T14:36:51 | From: Liss | To: Joseph Prinse | Message: They wouldn't say what for
+2022-07-14T14:37:20 | From: Liss | To: Joseph Prinse | Message: WTF Joseph!! Why would your car be on some watchlist
+2022-07-14T14:38:18 | From: Liss | To: Joseph Prinse | Message: You said those packages were car parts. Something like that
+2022-07-14T14:39:11 | From: Liss | To: Joseph Prinse | Message: Went back to the hospital. I'm freaking out. What the hell is this!!!???
+2022-07-14T14:39:25 | From: Liss | To: Joseph Prinse | Message: 😠😠
+2022-07-14T14:40:04 | From: Liss | To: Joseph Prinse | Message: You better have some great explanation for this tonight
+2022-07-14T15:27:02 | From: Joseph Prinse | To: Liss | Message: Grab a cup of coffee
+2022-07-14T15:27:26 | From: Joseph Prinse | To: Liss | Message: If you think it’s safe, come home
+2022-07-14T15:27:33 | From: Joseph Prinse | To: Liss | Message: Make sure you’re not followed
+2022-07-14T15:27:48 | From: Joseph Prinse | To: Liss | Message: Take the long road home
+2022-07-15T15:58:07 | From: Liss | To: Joseph Prinse | Message: You can make your own food tonight
+2022-07-15T15:58:17 | From: Liss | To: Joseph Prinse | Message: And all other nights
+2022-07-15T15:58:42 | From: Liss | To: Joseph Prinse | Message: I'm leaving your lying ass
+2022-07-15T15:59:08 | From: Liss | To: Joseph Prinse | Message: Don't involve me in your business
+2022-07-11T09:15:17 | From: Liss | To: Joseph Prinse | Message: I'm out tonight. Won't be joining you tomorrow morning
+2022-07-18T07:06:50 | From: Joseph Prinse | To: Liss | Message: That’s about time
+2022-07-18T07:06:57 | From: Joseph Prinse | To: Liss | Message: I was bored of you anyways
+2022-07-18T07:16:45 | From: Joseph Prinse | To: Liss | Message: Thanks 4 making my life miserable
+2022-07-18T07:16:59 | From: Joseph Prinse | To: Liss | Message: 🖕🏾
+2022-07-18T08:30:42 | From: Liss | To: Joseph Prinse | Message: Fuck you, lying asshole
+2022-07-18T08:30:51 | From: Liss | To: Joseph Prinse | Message: I contacted my lawyer
+2022-07-18T08:31:19 | From: Liss | To: Joseph Prinse | Message: You'll find divorce documents on the desk
+2022-07-18T08:31:40 | From: Liss | To: Joseph Prinse | Message: I expect them sign ed next Monday!!!
+2022-07-18T08:32:42 | From: Liss | To: Joseph Prinse | Message: You better sign that!
+2022-07-18T08:33:10 | From: Liss | To: Joseph Prinse | Message: I have evidence of all your so called business
+2022-07-18T08:34:17 | From: Liss | To: Joseph Prinse | Message: I'll go straight to the police if you fail to sign those papers!!!
+2022-07-18T09:50:51 | From: Joseph Prinse | To: Liss | Message: You fucking witch!
+2022-07-18T09:51:03 | From: Joseph Prinse | To: Liss | Message: You’re out of ur mind
+2022-07-18T09:51:22 | From: Joseph Prinse | To: Liss | Message: You’re really asking to much!!
+2022-07-18T09:51:29 | From: Joseph Prinse | To: Liss | Message: You can’t do this to me
+2022-07-18T09:51:40 | From: Joseph Prinse | To: Liss | Message: You know I don’t have that much
+2022-07-11T09:15:34 | From: Liss | To: Joseph Prinse | Message: Dinner is  in the fridge
+2022-07-18T09:52:20 | From: Joseph Prinse | To: Liss | Message: I have the documents
+2022-07-18T09:52:27 | From: Joseph Prinse | To: Liss | Message: Really fuck you!!
+2022-07-18T09:53:01 | From: Joseph Prinse | To: Liss | Message: You’re gonna regret this
+2022-07-18T09:53:04 | From: Joseph Prinse | To: Liss | Message: Bitch!
+2022-07-18T09:58:43 | From: Liss | To: Joseph Prinse | Message: 🖕🖕🖕
+2022-07-20T21:14:38 | From: Liss | To: Joseph Prinse | Message: One of your buddies is threatening me with texts!!
+2022-07-20T21:14:52 | From: Liss | To: Joseph Prinse | Message: He needs to fuck off
+2022-07-20T21:15:46 | From: Liss | To: Joseph Prinse | Message: I have his number. If things don't go as I want I'll be straight to the police!!!😡😡
+2022-07-20T21:16:11 | From: Liss | To: Joseph Prinse | Message: My lawyer has all the info as well
+2022-07-20T21:16:40 | From: Liss | To: Joseph Prinse | Message: I still want me documents signed!!!!
+2022-07-20T21:16:56 | From: Liss | To: Joseph Prinse | Message: You better be done with that tomprrow
+2022-07-21T06:58:17 | From: Joseph Prinse | To: Liss | Message: I have 2 words 4 u
+2022-07-21T06:58:23 | From: Joseph Prinse | To: Liss | Message: Fuck you
+2022-07-21T06:58:54 | From: Joseph Prinse | To: Liss | Message: Oh maybe 1 more
+2022-07-21T06:58:59 | From: Joseph Prinse | To: Liss | Message: Bitchhhhhh
+2022-07-21T14:45:18 | From: Liss | To: Joseph Prinse | Message: 🖕 whatever
+2022-07-11T14:10:21 | From: Joseph Prinse | To: Liss | Message: Have fun darling
+2022-07-21T14:45:32 | From: Liss | To: Joseph Prinse | Message: Lawyer says you haven't called yet
+2022-07-21T14:45:42 | From: Liss | To: Joseph Prinse | Message: Do this today!!!
+2022-07-21T19:21:49 | From: Liss | To: Joseph Prinse | Message: HELLOOO
+2022-07-21T19:22:12 | From: Liss | To: Joseph Prinse | Message: RESPOND ASAP
+2022-07-22T11:11:06 | From: Liss | To: Joseph Prinse | Message: WTF IS WRONG WITH YOU!!!
+2022-07-22T11:11:22 | From: Liss | To: Joseph Prinse | Message: Police was at the door. Saying you got arrested
+2022-07-22T11:11:35 | From: Liss | To: Joseph Prinse | Message: 😡😡
+2022-07-22T11:12:35 | From: Liss | To: Joseph Prinse | Message: I'll discuss this with my lawyer. I got no business with you going
+2022-07-22T11:12:46 | From: Liss | To: Joseph Prinse | Message: They better not arrest me too!!
+2022-07-12T04:47:54 | From: Joseph Prinse | To: Liss | Message: Good morning sunshine
+2022-07-12T04:48:02 | From: Joseph Prinse | To: Liss | Message: Did u have fun yesterday
+2022-07-12T06:31:01 | From: Liss | To: Joseph Prinse | Message: Yeah, was a really nice evening
+2022-07-12T06:31:18 | From: Liss | To: Joseph Prinse | Message: Forgot to take some pics
+2022-07-12T06:31:51 | From: Liss | To: Joseph Prinse | Message: Good food at that new Italian place🍕🍕😋
+2022-07-12T06:32:09 | From: Liss | To: Joseph Prinse | Message: Will see u tonight!
+2022-07-12T07:16:53 | From: Joseph Prinse | To: Liss | Message: We should go there together
+2022-07-12T07:17:53 | From: Joseph Prinse | To: Liss | Message: I like Italian food 👌🏾🍕
+2022-07-14T04:56:42 | From: Joseph Prinse | To: Liss | Message: Morning sunshine
+2022-07-14T04:57:17 | From: Joseph Prinse | To: Liss | Message: Can you deliver a package to the depot for me today?
+
+WhatsApp conversation about 1️⃣Online cake class containing 12 messages between 3 participants (evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-0-5-2-6-3c)
+2022-07-11T09:56:45 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-11T10:38:44 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T11:33:24 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T11:33:40 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-11T16:58:21 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T16:58:22 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-12T04:36:49 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T09:39:16 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-12T04:36:50 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-12T09:35:06 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-12T15:33:03 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Student works☝🏻
+2022-07-12T15:33:12 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+
+WhatsApp conversation about 31647730075@s.whatsapp.net containing 88 messages between 2 participants (evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38)
+2022-07-04T15:29:59 | From: Liss | To: Joseph Prinse | Message: Where are you?
+2022-07-14T09:12:27 | From: Liss | To: Joseph Prinse | Message: It's a bit of a rush at the hospital today
+2022-07-14T09:12:36 | From: Liss | To: Joseph Prinse | Message: Rather not
+2022-07-14T09:13:03 | From: Liss | To: Joseph Prinse | Message: Cant you ask one of your friends from work?
+2022-07-14T11:17:04 | From: Joseph Prinse | To: Liss | Message: Everyone is busy today
+2022-07-14T11:17:22 | From: Joseph Prinse | To: Liss | Message: Can you do it on your lunch break?
+2022-07-14T11:17:37 | From: Joseph Prinse | To: Liss | Message: It’s gonna be a quick delivery
+2022-07-14T11:17:51 | From: Joseph Prinse | To: Liss | Message: In and out u know
+2022-07-14T11:26:37 | From: Liss | To: Joseph Prinse | Message: 🙄🙄 fine, but not before 15.00.  My shift ends the afternoon
+2022-07-14T11:26:50 | From: Liss | To: Joseph Prinse | Message: I can do a quick drop off afterwards
+2022-07-14T11:27:28 | From: Liss | To: Joseph Prinse | Message: Is the package in the hallway on the dresser?
+2022-07-14T11:28:40 | From: Liss | To: Joseph Prinse | Message: You mean that store depot. Same as last time?
+2022-07-14T11:39:55 | From: Joseph Prinse | To: Liss | Message: Yep
+2022-07-14T11:39:59 | From: Joseph Prinse | To: Liss | Message: Yep
+2022-07-14T11:40:21 | From: Joseph Prinse | To: Liss | Message: Amazing!
+2022-07-14T12:19:35 | From: Liss | To: Joseph Prinse | Message: Ok. I'll see you at dinner
+Your turn to cook🍷🍕
+2022-07-14T14:34:29 | From: Liss | To: Joseph Prinse | Message: Something went wrong
+2022-07-04T15:34:02 | From: Joseph Prinse | To: Liss | Message: 10 minutes!
+2022-07-14T14:35:46 | From: Liss | To: Joseph Prinse | Message: Got stopped right outside the depot. By some police. Or border patrol something
+2022-07-14T14:36:20 | From: Liss | To: Joseph Prinse | Message: They said the car was on some watchlist. Demanded papers, I'd everything
+2022-07-14T14:36:51 | From: Liss | To: Joseph Prinse | Message: They wouldn't say what for
+2022-07-14T14:37:20 | From: Liss | To: Joseph Prinse | Message: WTF Joseph!! Why would your car be on some watchlist
+2022-07-14T14:38:18 | From: Liss | To: Joseph Prinse | Message: You said those packages were car parts. Something like that
+2022-07-14T14:39:11 | From: Liss | To: Joseph Prinse | Message: Went back to the hospital. I'm freaking out. What the hell is this!!!???
+2022-07-14T14:39:25 | From: Liss | To: Joseph Prinse | Message: 😠😠
+2022-07-14T14:40:04 | From: Liss | To: Joseph Prinse | Message: You better have some great explanation for this tonight
+2022-07-14T15:27:02 | From: Joseph Prinse | To: Liss | Message: Grab a cup of coffee
+2022-07-14T15:27:26 | From: Joseph Prinse | To: Liss | Message: If you think it’s safe, come home
+2022-07-14T15:27:33 | From: Joseph Prinse | To: Liss | Message: Make sure you’re not followed
+2022-07-14T15:27:48 | From: Joseph Prinse | To: Liss | Message: Take the long road home
+2022-07-15T15:58:07 | From: Liss | To: Joseph Prinse | Message: You can make your own food tonight
+2022-07-15T15:58:17 | From: Liss | To: Joseph Prinse | Message: And all other nights
+2022-07-15T15:58:42 | From: Liss | To: Joseph Prinse | Message: I'm leaving your lying ass
+2022-07-15T15:59:08 | From: Liss | To: Joseph Prinse | Message: Don't involve me in your business
+2022-07-11T09:15:17 | From: Liss | To: Joseph Prinse | Message: I'm out tonight. Won't be joining you tomorrow morning
+2022-07-18T07:06:50 | From: Joseph Prinse | To: Liss | Message: That’s about time
+2022-07-18T07:06:57 | From: Joseph Prinse | To: Liss | Message: I was bored of you anyways
+2022-07-18T07:16:45 | From: Joseph Prinse | To: Liss | Message: Thanks 4 making my life miserable
+2022-07-18T07:16:59 | From: Joseph Prinse | To: Liss | Message: 🖕🏾
+2022-07-18T08:30:42 | From: Liss | To: Joseph Prinse | Message: Fuck you, lying asshole
+2022-07-18T08:30:51 | From: Liss | To: Joseph Prinse | Message: I contacted my lawyer
+2022-07-18T08:31:19 | From: Liss | To: Joseph Prinse | Message: You'll find divorce documents on the desk
+2022-07-18T08:31:40 | From: Liss | To: Joseph Prinse | Message: I expect them sign ed next Monday!!!
+2022-07-18T08:32:42 | From: Liss | To: Joseph Prinse | Message: You better sign that!
+2022-07-18T08:33:10 | From: Liss | To: Joseph Prinse | Message: I have evidence of all your so called business
+2022-07-18T08:34:17 | From: Liss | To: Joseph Prinse | Message: I'll go straight to the police if you fail to sign those papers!!!
+2022-07-18T09:50:51 | From: Joseph Prinse | To: Liss | Message: You fucking witch!
+2022-07-18T09:51:03 | From: Joseph Prinse | To: Liss | Message: You’re out of ur mind
+2022-07-18T09:51:22 | From: Joseph Prinse | To: Liss | Message: You’re really asking to much!!
+2022-07-18T09:51:29 | From: Joseph Prinse | To: Liss | Message: You can’t do this to me
+2022-07-18T09:51:40 | From: Joseph Prinse | To: Liss | Message: You know I don’t have that much
+2022-07-11T09:15:34 | From: Liss | To: Joseph Prinse | Message: Dinner is  in the fridge
+2022-07-18T09:52:20 | From: Joseph Prinse | To: Liss | Message: I have the documents
+2022-07-18T09:52:27 | From: Joseph Prinse | To: Liss | Message: Really fuck you!!
+2022-07-18T09:53:01 | From: Joseph Prinse | To: Liss | Message: You’re gonna regret this
+2022-07-18T09:53:04 | From: Joseph Prinse | To: Liss | Message: Bitch!
+2022-07-18T09:58:43 | From: Liss | To: Joseph Prinse | Message: 🖕🖕🖕
+2022-07-20T21:14:38 | From: Liss | To: Joseph Prinse | Message: One of your buddies is threatening me with texts!!
+2022-07-20T21:14:52 | From: Liss | To: Joseph Prinse | Message: He needs to fuck off
+2022-07-20T21:15:46 | From: Liss | To: Joseph Prinse | Message: I have his number. If things don't go as I want I'll be straight to the police!!!😡😡
+2022-07-20T21:16:11 | From: Liss | To: Joseph Prinse | Message: My lawyer has all the info as well
+2022-07-20T21:16:40 | From: Liss | To: Joseph Prinse | Message: I still want me documents signed!!!!
+2022-07-20T21:16:56 | From: Liss | To: Joseph Prinse | Message: You better be done with that tomprrow
+2022-07-21T06:58:17 | From: Joseph Prinse | To: Liss | Message: I have 2 words 4 u
+2022-07-21T06:58:23 | From: Joseph Prinse | To: Liss | Message: Fuck you
+2022-07-21T06:58:54 | From: Joseph Prinse | To: Liss | Message: Oh maybe 1 more
+2022-07-21T06:58:59 | From: Joseph Prinse | To: Liss | Message: Bitchhhhhh
+2022-07-21T14:45:18 | From: Liss | To: Joseph Prinse | Message: 🖕 whatever
+2022-07-11T14:10:21 | From: Joseph Prinse | To: Liss | Message: Have fun darling
+2022-07-21T14:45:32 | From: Liss | To: Joseph Prinse | Message: Lawyer says you haven't called yet
+2022-07-21T14:45:42 | From: Liss | To: Joseph Prinse | Message: Do this today!!!
+2022-07-21T19:21:49 | From: Liss | To: Joseph Prinse | Message: HELLOOO
+2022-07-21T19:22:12 | From: Liss | To: Joseph Prinse | Message: RESPOND ASAP
+2022-07-22T11:11:06 | From: Liss | To: Joseph Prinse | Message: WTF IS WRONG WITH YOU!!!
+2022-07-22T11:11:22 | From: Liss | To: Joseph Prinse | Message: Police was at the door. Saying you got arrested
+2022-07-22T11:11:35 | From: Liss | To: Joseph Prinse | Message: 😡😡
+2022-07-22T11:12:35 | From: Liss | To: Joseph Prinse | Message: I'll discuss this with my lawyer. I got no business with you going
+2022-07-22T11:12:46 | From: Liss | To: Joseph Prinse | Message: They better not arrest me too!!
+2022-07-12T04:47:54 | From: Joseph Prinse | To: Liss | Message: Good morning sunshine
+2022-07-12T04:48:02 | From: Joseph Prinse | To: Liss | Message: Did u have fun yesterday
+2022-07-12T06:31:01 | From: Liss | To: Joseph Prinse | Message: Yeah, was a really nice evening
+2022-07-12T06:31:18 | From: Liss | To: Joseph Prinse | Message: Forgot to take some pics
+2022-07-12T06:31:51 | From: Liss | To: Joseph Prinse | Message: Good food at that new Italian place🍕🍕😋
+2022-07-12T06:32:09 | From: Liss | To: Joseph Prinse | Message: Will see u tonight!
+2022-07-12T07:16:53 | From: Joseph Prinse | To: Liss | Message: We should go there together
+2022-07-12T07:17:53 | From: Joseph Prinse | To: Liss | Message: I like Italian food 👌🏾🍕
+2022-07-14T04:56:42 | From: Joseph Prinse | To: Liss | Message: Morning sunshine
+2022-07-14T04:57:17 | From: Joseph Prinse | To: Liss | Message: Can you deliver a package to the depot for me today?
+
+WhatsApp conversation about 1️⃣Online cake class containing 12 messages between 3 participants (evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-3c)
+2022-07-11T09:56:45 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-11T10:38:44 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T11:33:24 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T11:33:40 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-11T16:58:21 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T16:58:22 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-12T04:36:49 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-11T09:39:16 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Welcome to the 
+ONLINE CAKE CLASS! 
+The Class will be held through *whatsapp by* *posting videos* every Monday and Friday per week.
+One item per day..
+One Month Course.
+If you like to join please deposit Rs 1000/-to the below account number
+
+*Shazna Mubarak* 
+*8040107964*
+*Commercial bank* 
+*Kandy*
+
+Shazna mubarak
+88575479 
+Bank of ceylon 
+Kandy Branch
+
+ Ez cash
+0779767744
+
+Please send a pic of the deposit slip after that you will be added to the main group.
+Thank you!
+2022-07-12T04:36:50 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-12T09:35:06 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕
+2022-07-12T15:33:03 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Student works☝🏻
+2022-07-12T15:33:12 | From: 08289699759@s.whatsapp.net | To: 94773172655-1632236597@g.us | Message: Hi sisters class starts on *15th Friday July.* Dnt Miss this great chance. Cake *class 12 items just for Rs. 1000* .
+ .
+So hurry up for the payments. Book your admission. Only limited seats available 😊
+Thank you 💕

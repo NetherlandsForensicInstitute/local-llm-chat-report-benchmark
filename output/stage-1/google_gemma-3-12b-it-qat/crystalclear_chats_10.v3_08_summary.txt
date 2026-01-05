@@ -1,0 +1,23 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T09:12:27
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Conversation about the delivery of a package to a depot. Liss is asked to deliver a package to the store depot, same as before. The package is described as quick delivery, in and out. Joseph mentions that everyone at work is busy. There are indications of potential issues with the car being on a watchlist and possible police involvement, leading to Liss expressing concern and questioning Joseph's actions.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38
+
+**Record:**
+*   **Timestamp:** 2022-07-14T14:35:46
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss reports being stopped by police or border patrol outside the depot. The car was on a watchlist, and she was questioned about documents. Liss expresses concern over this event and questions Joseph regarding why his car would be placed on a watchlist and what the package contained.  Joseph instructs Liss to grab coffee if safe, come home, avoid being followed, and take the long route.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-3c
+
+**Record:**
+*   **Timestamp:** 2022-07-18T09:51:03
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Following the incident at the depot, Joseph is responding to Liss's concerns with aggressive and threatening messages. He calls her a "witch" and threatens regret if she proceeds with divorce papers, referencing evidence of his “so called business."  Liss responds with escalating insults and threats of police involvement.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-3c
+
+**Record:**
+*   **Timestamp:** 2022-07-11T09:56:45
+*   **Participants:** 08289699759@s.whatsapp.net, 94773172655-1632236597@g.us
+*   **Summary:** Advertisement for an online cake class with a fee of Rs. 1000.  Details provided about the course structure (videos posted on Mondays and Fridays), duration (one month), and payment methods, including bank account details and Ez cash number.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-3c

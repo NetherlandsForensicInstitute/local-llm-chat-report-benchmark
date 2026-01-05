@@ -1,0 +1,13 @@
+Okay, let's start by going through the provided chat logs and identifying which parts meet the inclusion criteria. The main goal is to extract conversations relevant to logistics, financial transactions, coded language, coordination, and threats.
+
+First, looking at the WhatsApp conversation between Nerijus Bos and Rosie Boudica (Rosie). There are several messages discussing logistics like freight routes, hiding goods in packages, and mentions of specific dates and locations. For example, on July 8th, Rosie talks about using freight routes and hiding goods in packages. Then there's a financial transaction on July 13th where Rosie asks about the Eleanor Reyes transfer and provides a bank account number. Also, there's mention of a problem at the port on July 15th involving Liss and Joseph's car, which could be related to security or threats.
+
+Next, the conversation with Quan Xiuan and Joseph Prinse involves arranging a pickup on July 21st at a specific address, which is logistics. Then there's a message from Joseph expressing concern about Lizz knowing too much, which might relate to threats or security issues. 
+
+Other conversations like the ones promoting Forex trading, crypto investments, and links to platforms are spam and should be excluded. The Clayton Hoover conversation with Jessica Mark is more social and about cryptocurrency investment, but since it doesn't involve specific logistics or financial transactions between participants (except maybe the link to Maren Wise Andi Cordovament Company), but the inclusion criteria require specific payments or bank details between participants, which isn't present here. 
+
+The messages about Graphene OS phone installation and dinner plans are mundane and don't fit any inclusion criteria. The other WhatsApp conversations with numbers like 2348089174091 and 6589179830 are spam or advertisements, so they're excluded.
+
+Now, consolidating the relevant parts into Records. The first Record would be about the logistics discussion on July 8th, hiding goods, and the financial transaction on July 13th. The second Record is about arranging Quan's pickup and Joseph's concern about Lizz. 
+
+I need to make sure each Record has a clear event with timestamps, participants, summary including key actions, details, and trace IDs. Also, check for any other mentions of coded language or coordination instructions.

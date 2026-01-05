@@ -1,0 +1,17 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T06:46:38
+*   **Participants:** Nerijus Bos, Antonio Gotta
+*   **Summary:** On July 6th, Antonio Gotta notified Nerijus Bos of a new deal with UK clients that required an “inspection of the lab” (coded language) prior to delivery; he indicated that payment would be made in advance. Follow‐up messages on July 12th confirmed receipt of payment and arrangements for delivery.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+**Record:**
+*   **Timestamp:** 2022-07-08T10:18:26
+*   **Participants:** Nerijus Bos, Antonio Gotta
+*   **Summary:** On July 8th, Antonio Gotta instructed that delivered drugs would be compensated in Bitcoins and emphasized urgency (“ASAP”). Later, on July 25th, he reported an urgent issue with the quality inspection of the goods (“inspection of the quality of the goods has gone wrong”) and requested immediate action; Nerijus Bos confirmed he was “on my way.”
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:26:04
+*   **Participants:** Nerijus Bos, Liss
+*   **Summary:** On July 20th, Nerijus Bos issued an intimidation warning to Liss by advising her not to contact the police; Liss responded defiantly.
+*   **Trace ID:** bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-29

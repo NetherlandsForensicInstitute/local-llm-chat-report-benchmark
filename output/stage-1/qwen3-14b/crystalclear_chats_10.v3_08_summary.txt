@@ -1,0 +1,17 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:15:16
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Discussion about concealing goods in packages on regular transports and adjusting schedules to avoid checks. Rosie suggests using freight routes instead of mules. Financial transaction details include a request for Eleanor Reyes transfer to NL40 ABNA 665599774 of "Rosie Fashion" and confirmation that payment will be made upon successful transport. Key people mentioned: Liss, Joseph.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-4-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie reports trouble at the port with Liss spotted using Joseph's car at the depot, leading to "nasty questions." Nerijus reacts with concern about the situation escalating. Key people mentioned: Liss, Joseph.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-4-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-14T11:17:04
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Joseph requests Liss to deliver a package to the depot. Liss agrees but is later stopped by police at the depot due to Joseph's car being on a watchlist. Liss threatens legal action and mentions involving her lawyer if Joseph does not sign divorce documents. Key people: Joseph Prinse.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38

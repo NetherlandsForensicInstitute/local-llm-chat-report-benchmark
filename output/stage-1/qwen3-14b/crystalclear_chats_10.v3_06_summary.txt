@@ -1,0 +1,29 @@
+**Record:**  
+*   **Timestamp:** 2022-07-14T11:26:37  
+*   **Participants:** Joseph Prinse, Liss (Lizzard)  
+*   **Summary:** Liss agreed to deliver a package to the depot but raised concerns after being stopped by police near the depot. The car was on a watchlist, and authorities demanded documentation. Joseph instructed her to take precautions, including avoiding being followed and taking a long route home.  
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1  
+
+**Record:**  
+*   **Timestamp:** 2022-07-11T10:20:09  
+*   **Participants:** Joseph Prinse, Nerijus Bos  
+*   **Summary:** Nerijus Bos requested Joseph to pick up Quan at the airport on July 21st and provided Quan’s number (0031647941638). The pickup location was specified as Bronsstraat 8, IJmuiden.  
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3  
+
+**Record:**  
+*   **Timestamp:** 2022-07-21T06:56:21  
+*   **Participants:** Joseph Prinse, Quan Xiuan (Quan)  
+*   **Summary:** Joseph arranged to meet Quan at the airport. Quan confirmed arrival and provided details about approaching the AKO (likely a location). They coordinated meeting near the large Ako.  
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-4  
+
+**Record:**  
+*   **Timestamp:** 2022-07-06T06:46:38  
+*   **Participants:** antonio gotta, nb (Nerijus Bos)  
+*   **Summary:** Antonio Gotta discussed a drug deal with Nerijus Bos, arranging delivery and payment in Bitcoin. Payment was confirmed as received, and future arrangements for drug deliveries were discussed.  
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0  
+
+**Record:**  
+*   **Timestamp:** 2022-07-15T06:33:58  
+*   **Participants:** Joseph Prinse, Liss (Lizzard)  
+*   **Summary:** Liss threatened to involve the police if Joseph did not sign divorce documents. She mentioned having evidence of his "business" and warned him about potential legal consequences.  
+*   **Trace ID:** evidence trace 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-1

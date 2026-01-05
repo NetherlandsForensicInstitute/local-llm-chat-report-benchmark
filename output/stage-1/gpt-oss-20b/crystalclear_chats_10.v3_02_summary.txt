@@ -1,0 +1,17 @@
+**Record:**
+*   **Timestamp:** 2022-07-15T06:33:58
+*   **Participants:** Antonio Gotta, Nerijus Bos
+*   **Summary:** Antonio Gotta sent an invoice for a Swiss Patek watch on 14 July and asked for payment. Nerijus confirmed the payment was wired on 20 July and that the watch will be delivered in October. Payment method: wire transfer; no specific amount stated.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+**Record:**
+*   **Timestamp:** 2022-07-08T10:18:26
+*   **Participants:** Antonio Gotta, Nerijus Bos
+*   **Summary:** Antonio Gotta arranged the delivery of drugs to a club in Ibiza. He stated that payment for the delivery would be made in Bitcoins and requested prompt completion. Nerijus acknowledged receipt of the message and said he would look into it over the weekend. Location: Ibiza; Payment method: Bitcoin.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:26:04
+*   **Participants:** Liss, Nerijus Bos
+*   **Summary:** Liss threatened police involvement by warning that the recipient should not contact law enforcement. This is a threat directed at authorities.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-29

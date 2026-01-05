@@ -1,0 +1,35 @@
+**Record:**
+*   **Timestamp:** 2022-07-07T08:08:18
+*   **Participants:** Nerijus Bos, Quan Xiuan, Joseph Prinse
+*   **Summary:** Consolidated pickup arrangement for Quan Xiuan on July 21. Initially, Bos informs Quan that Joseph will pick him up and later instructs Joseph to arrange a pickup at the airport (Bronsstraat 8, 1976 BC, IJmuiden) by providing Quan’s phone number (0031647941638). The conversation also raises concerns regarding security issues with someone (“Lizz”) allegedly knowing too much.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-6
+
+**Record:**
+*   **Timestamp:** 2022-07-08T07:16:15
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Discussion on removing a scheduled periodic check for “goods.” Rosie proposes canceling the check if a periodic review occurs and suggests scheduling the removal on Friday when fewer people are at the office. Both parties acknowledge and confirm this plan.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:12:26
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Coordination on an email request and financial transaction. Rosie confirms the completion of an email request, inquires about the number of euros to be transferred, and instructs a transfer to bank account NL40 ABNA 665599774 under “Rosie Fashion.” Bos adds that if the transport is successful, the funds will follow.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Ximena Wong regarding an operational issue at a port. Rosie reports trouble at the port where Liss is spotted with one of Joseph’s cars at a depot and mentions receiving “nasty questions.” Bos expresses alarm at the unexpected complication.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:26:04
+*   **Participants:** Nerijus Bos, Liss
+*   **Summary:** Direct threat communication. Bos warns Liss not to contact the police—an explicit instruction aimed at preventing law enforcement involvement—while Liss responds with defiance and dismissal.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-33
+
+**Record:**
+*   **Timestamp:** 2022-07-20T13:10:05
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Coordination for technical assistance and secure communication. Rosie requests help installing Graphene PS on her new Pixel device and arranges to discuss this during dinner, with Bos agreeing to pick her up at 6 PM from an undisclosed location.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3

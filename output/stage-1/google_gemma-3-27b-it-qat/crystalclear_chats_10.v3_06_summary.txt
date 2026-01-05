@@ -1,0 +1,77 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T06:46:38
+*   **Participants:** antonio gotta, Nerijus Bos
+*   **Summary:** Antonio Gotta informs Nerijus Bos about a new deal with the UK that requires an inspection of their lab. They are offering advance payment if Nerijus can arrange it.
+*   **Trace ID:** 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-b-2-7-b
+
+**Record:**
+*   **Timestamp:** 2022-07-08T10:17:11
+*   **Participants:** antonio gotta, Nerijus Bos
+*   **Summary:** Antonio Gotta informs Nerijus Bos about a new arrangement for their club in Ibiza. The delivered drugs will be paid in Bitcoin and he asks him to make sure this gets done ASAP. 
+*   **Trace ID:** 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-1-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:09
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus asks Joseph to pick up Quan at the airport on July 21st. The address is Bronsstraat 8, 1976 BC, IJmuiden and he provides Quan's phone number: 0031647941638.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-12T04:45:17
+*   **Participants:** Joseph Prinse, Quan Xiuan
+*   **Summary:** Joseph introduces himself to Quan and asks for flight details.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-4
+
+**Record:**
+*   **Timestamp:** 2022-07-14T04:36:21
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss informs Joseph she was stopped by police (or border patrol) outside the depot. They demanded papers and mentioned his car being on a watchlist. She asks why he said the packages were car parts.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+
+**Record:**
+*   **Timestamp:** 2022-07-14T04:56:41
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Joseph asks Liss if she can deliver a package to the depot today.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+
+**Record:**
+*   **Timestamp:** 2022-07-21T06:56:21
+*   **Participants:** Joseph Prinse, Quan Xiuan (Quan)
+*   **Summary:** Joseph asks Quan to text him when he lands at the airport.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-14
+
+**Record:**
+*   **Timestamp:** 2022-07-15T06:33:58
+*   **Participants:** antonio gotta, Nerijus Bos
+*   **Summary:** Nerijus informs Antonio that payment has been sent.
+*   **Trace ID:** 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-b-2-7-a
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:42
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:** Joseph tells Nerijus that Liss knows too much and asks what they should do about it.
+*   **Trace ID:** 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-b-2-7-a
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:25:00
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus states that the situation with Liss is not good and he will send her a clear message.
+*   **Trace ID:** 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-b-2-7-a
+
+**Record:**
+*   **Timestamp:** 2022-07-21T19:21:48
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss demands a response immediately.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+
+**Record:**
+*   **Timestamp:** 2022-07-21T19:22:12
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss informs Joseph that the police were at her door and said he was arrested.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-7-1
+
+**Record:**
+* **Timestamp:** 2022-07-11T14:10:11
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Joseph confirms he will pick up Quan at the airport.
+*   **Trace ID:** 9f4a2008-2d40-44e8-90f8-beee7dbf1822:0-0-0-1-0-0-0-2-1-1-0-5-a-3

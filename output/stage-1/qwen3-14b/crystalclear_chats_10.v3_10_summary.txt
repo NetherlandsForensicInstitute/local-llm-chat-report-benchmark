@@ -1,0 +1,17 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T11:17:04
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss agreed to deliver a package to a store depot for Joseph Prinse during her lunch break. Joseph confirmed the delivery would be quick and instructed her to drop it off after 15:00. Liss later reported being stopped by police at the depot, where her car was flagged on a watchlist and she was questioned about the package, which Joseph had described as "car parts." This led to Liss expressing frustration and demanding explanations from Joseph.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-6-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-18T08:30:42
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss threatened to involve the police and cited having evidence of Joseph's "business" after he refused to sign divorce documents. Joseph retaliated with threats and insults, including claiming she was "out of her mind" and threatening to make her "regret this." Liss later reported that one of Joseph's associates had been threatening her via text, which she warned Joseph about.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-7-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-11T08:34:23
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:** Figo Johnson instructed Quan Xiuan to purchase a suitcase via Marktplaats using cash to avoid traceable receipts, send photos of the suitcase and "drugs and the lab" via Leona Powers, and create a Signal account for secure communication. Quan was also asked to provide updates on these instructions.
+*   **Trace ID:** evidence trace a0518702-3584-4b83-a97e-de437493e4de:0-0-0-1-0-0-0-1-1-1-0-19-a-1

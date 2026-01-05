@@ -1,0 +1,17 @@
+Okay, let me start by going through the provided raw chat logs. My task is to extract conversations that are relevant to a criminal investigation based on the inclusion criteria. First, I need to identify which messages fall under Logistics & Transport, Financial Transactions, Coded Language, Coordination & Instructions, or Threats & Security.
+
+Looking at the first message from 2020-11-22: It's about investing in DeFi and promoting DEMI tokens. This seems like a financial transaction discussion but it's more of an advertisement for a token sale. According to exclusion criteria, spam and advertisements should be ignored. So this is excluded.
+
+Next messages are similar, all related to various crypto projects, private sales, IDylan Ballards, etc. These are promotional and don't involve logistics, coordination, threats, or financial transactions between participants. They're more like spam and advertisements, so they should be excluded as per the criteria.
+
+Continuing through the logs, there's a message in 2021-10-27 about bDODO staking with Game-Fi on BSC. Again, this is promotional content for a token sale, which falls under spam and should be excluded.
+
+Looking at messages from 2021-10-28 discussing Wade Montgomery as a meme coin, again promotional and not relevant to the inclusion criteria. Same with subsequent messages about Fernando Patel Bryant Herrera collection, Crosswise DEX presale, ApeNOut token, Affyn Adele McCall, Book Worm white list, Circepod IDO, Rocket Network, Defactor token launch, TEFI token, FlokiTommy Rivasi, The Cake Finnegan Conrad token, Dream1 token, DEMI Zoey Lang Presale, etc. All these are marketing or promotional messages and thus excluded.
+
+The only message that might be relevant is the one from 2021-12-30 about the "Grandest Christmas Contest" with a prize pool of $1,250,000. However, this seems like a promotional event for a metaverse project and not related to logistics or financial transactions between participants. It's more of an advertisement, so it should be excluded.
+
+Continuing through 2022 messages, there are several IDylan Ballards, token sales, and airdrops. All these fall under spam and advertisements as they promote projects without involving the required criteria for inclusion. There's no mention of logistics, financial transactions between participants, coordination instructions, threats, or coded language (like "goods", "lab", etc.).
+
+The message about "DeFiMillion launch a bonus program for DEMI Holders" in 2021-01-03 mentions bonuses and staking, which is related to financial transactions. However, it's still part of promoting the DeFiMillion project, so it might be considered promotional unless there are specific instructions or coordination involved. But since there's no mention of between participants or any logistics, it's likely excluded.
+
+None of the messages seem to discuss actual logistics, shipments, financial transactions between individuals, coded language indicating illegal activities, coordination for criminal acts, or threats and security concerns. Therefore, based on the inclusion criteria, none of these messages should be extracted as they are all promotional content for various crypto projects and do not meet the required criteria.

@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:14:06
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** On July 8, 2022, the participants discussed avoiding detection by shifting cargo onto freight routes. Rosie advised removing goods from scheduled checks and hiding them in regular transport packages, noting that Friday would have fewer office personnel. The conversation used coded terms such as “goods” and referenced “freight routes”.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:17:47
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Nerijus instructed Rosie to transfer the agreed sum to bank account NL40 ABNA 665599774 belonging to Rosie Fashion. The conversation included a query about the euro amount and confirmed that payment would be made upon successful transport.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Rosie reported that Liss was spotted with Joseph’s car at the depot, raising concerns of potential police detection and witness intimidation. She indicated she was receiving “nasty questions,” highlighting a threat/security risk tied to their logistics operations.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-3
+
+**Record:**
+*   **Timestamp:** 2022-07-07T08:08:18
+*   **Participants:** Nerijus Bos, Quan Xiuan
+*   **Summary:** Nerijus informed Quan that he would be expected on July 21 and that Joseph Prinse would pick him up. No specific location was mentioned in this message.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-6
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:08
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus requested that Joseph pick up Quan at the airport on July 21, providing the address Bronsstraat 8, 1976 BC, IJmuiden and phone number 0031647941638. Joseph confirmed his willingness to do so.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-7

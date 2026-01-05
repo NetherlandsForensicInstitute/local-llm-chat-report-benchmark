@@ -1,0 +1,5 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T06:46:38
+*   **Participants:** Nerijus Bos, Antonio Gotta
+*   **Summary:** Consolidated summary of a logistics and financial transaction discussion. Antonio Gotta arranges for the inspection of goods, confirms payment receipt, and discusses delivering drugs to be paid in Bitcoin. He mentions urgency due to an inspection issue and coordination to resolve it. Key details include references to a "lab," Bitcoin payments, and arranging pickups.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-14

@@ -1,0 +1,15 @@
+Okay, let's tackle this. So, I need to extract relevant communications from these chat logs based on the inclusion criteria provided. First, I'll go through each conversation and check if they meet any of the inclusion criteria.
+
+Looking at the first WhatsApp conversation between Nerijus Bos and Rosie Boudica. There are several messages discussing logistics like removing goods, adjusting schedules, and mentions of a depot. Also, there's a financial transaction with a bank account number provided. That definitely fits under Logistics & Transport and Financial Transactions. The threat about Liss being spotted and nasty questions might fall under Threats & Security. I need to group these into one record since they're related events.
+
+Next, the Native Messages conversation between Nerijus Bos and Joseph Prinse about the boxing gala tickets seems like social chatter, but there's also a mention of Joseph picking up Quan at the airport with an address and phone number. That's logistics. However, the main topic here is the tickets, which might be excluded unless there's more context. Wait, there's another message where Joseph says Lizz knows too much and asks what to do about it. That's a threat or security concern. So that part should be included.
+
+Then there's a conversation with Liss where Nerijus warns her not to contact the police. That's clearly under Threats & Security. The messages from Scott and Lainey Montgomeryna Donovann Camacho are spam or advertisements, so they get excluded. Similarly, the Forex and Bitcoin message is another ad, so exclude those.
+
+The conversation about Quan Xiuan being picked up by Joseph includes logistics details like address and phone number. Also, the mention of arranging a pickup on July 21. That's definitely under Logistics & Transport. The messages from Joseph Prinse about Liss knowing too much are part of the same event as the earlier threat message, so they should be grouped together.
+
+The message from Nerijus to Liss warning her not to contact the police is a separate event but related to security concerns. Need to make sure each record is consolidated based on events. Also, check for coded language like "goods" and "package," which are present in the initial conversations with Rosie Boudica.
+
+Financial transactions include the bank transfer details provided by Rosie Boudica. The mention of Graphene OS phone might be part of coordination or instructions if it's related to secure communication methods. But since it's just a request to install, maybe not. However, it's under Coordination & Instructions as giving tasks.
+
+Now, compiling all these into the required Record format. Each record needs timestamps, participants, summary with key actions, specific details, and trace IDs. Make sure to use the exact trace IDs from the evidence logs. Also, exclude any messages that are just greetings or social chatter without relevant info.

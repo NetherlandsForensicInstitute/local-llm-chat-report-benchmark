@@ -1,0 +1,29 @@
+Record:
+*   **Timestamp:** 2022-07-05T07:58:23
+*   **Participants:** Antonio Gotta; Nerijus Bos
+*   **Summary:** This record details an illicit deal involving a UK transaction where payment is made in advance contingent on lab inspection; the conversation confirms receipt of payment and issuance of an invoice for previous dues, notes an urgent quality control problem at the port (with mention of Joseph’s car), and outlines arrangements for covert drug transport via Bitcoin during a club event in Ibiza as well as subsequent airport pickup coordination.
+*   **Trace ID:** 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-1
+
+Record:
+*   **Timestamp:** 2022-07-11T08:34:23
+*   **Participants:** Figo Johnson; Quan Xiuan
+*   **Summary:** This record provides instructions for a covert family visit: the sender directs the recipient to purchase a suitcase via Marktplaats using cash (to avoid traceable receipts), send photos of the suitcase and illicit items (“drugs” and “lab”) through Leona Powers, and establish a Signal account for secure communications.
+*   **Trace ID:** 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-13
+
+Record:
+*   **Timestamp:** 2022-07-12T04:45:18
+*   **Participants:** Joseph Prinse; Quan Xiuan
+*   **Summary:** This record involves coordination for an airport pickup: the sender requests the recipient’s flight details and instructs that a message be sent upon landing so he can arrange to pick up the recipient at the exit.
+*   **Trace ID:** 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-35
+
+Record:
+*   **Timestamp:** 2022-07-07T08:08:19
+*   **Participants:** Nerijus Bos; Quan Xiuan
+*   **Summary:** This record confirms an arrangement for a July 21 pickup: the sender informs the recipient that he is expected on July 21, with Joseph designated as the person to provide transportation, and the recipient affirms availability.
+*   **Trace ID:** 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-4-30
+
+Record:
+*   **Timestamp:** 2022-07-08T07:15:16
+*   **Participants:** Nerijus Bos; Rosie Boudica
+*   **Summary:** This record discusses covert transport logistics for concealed goods: the conversation outlines plans to hide items in regular packages by adjusting schedules (such as canceling checks on Fridays when fewer people are present), details a bank transfer arrangement contingent upon successful delivery (to NL40 ABNA 665599774 of Rosie Fashion), addresses an issue at the port involving Joseph’s car, and includes personal coordination regarding dinner and route planning.
+*   **Trace ID:** 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-2-8-3-2-1

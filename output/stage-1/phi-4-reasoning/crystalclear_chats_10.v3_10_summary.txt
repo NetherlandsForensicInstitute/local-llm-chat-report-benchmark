@@ -1,0 +1,11 @@
+Record:
+*   **Timestamp:** 2022-07-04T15:29:59
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** This record documents a sustained exchange in which the participants coordinate a quick delivery and drop‐off of an unspecified package to a “store depot” (with alternative references to its location on a dresser or at the depot) while managing timing constraints around shift breaks. The conversation further escalates when Liss reports being stopped by police near the depot—mentioning that her car was placed on a watchlist—and later threatens to involve law enforcement if Joseph does not comply with instructions (including signing divorce documents and surrendering evidence of his “business”). These messages collectively indicate both logistical coordination for an item transfer and security-related threats.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-10-15
+
+Record:
+*   **Timestamp:** 2022-07-05T12:08:53
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:** In this conversation the two participants discuss meeting arrangements and then shift focus to a covert operation. Figo instructs Quan to use cash for purchasing a suitcase via Marktplaats (to avoid traceable receipts), send photos of both the suitcase and items described as “drugs” along with images of a “lab” using Leona Powers, and set up a Signal account for further communication. Earlier messages also query about meeting logistics and inquire about a party fee, reinforcing that the discussion blends personal coordination with explicit instructions for executing suspicious activities.
+*   **Trace ID:** evidence trace a0518702-3584-4b83-a97e-de437493e4de:0-0-0-1-0-0-0-1-1-1-0-19-a-1

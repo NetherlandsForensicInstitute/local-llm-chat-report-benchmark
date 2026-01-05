@@ -1,0 +1,5 @@
+**Record:**
+* **Timestamp:** 2022-07-04T15:29:59
+* **Participants:** Liss, Joseph Prinse
+* **Summary:** The conversation between Liss and Joseph Prinse centers on coordinating a package delivery to a depot while also addressing related personal disputes. Early in the exchange, participants discuss logistics such as pickup timing (“not before 15.00”), quick drop-off arrangements, and confirmation that the package is located at the depot (referenced both as “in the hallway on the dresser” and compared to previous depot deliveries). The dialogue escalates when Liss reports being stopped by police outside the depot—her car was flagged on a watchlist—and threatens legal action if Joseph does not comply with demands regarding divorce documents. Both parties exchange instructions and personal threats, underscoring coordination around the delivery task as well as concerns over security and compliance.
+* **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1-0-1

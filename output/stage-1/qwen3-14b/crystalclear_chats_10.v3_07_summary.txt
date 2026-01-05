@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T06:46:38
+*   **Participants:** Antonio Gotta, 5564586549 (NB)
+*   **Summary:** Antonio Gotta coordinated with NB regarding a UK deal involving lab inspection and payment arrangements. NB confirmed payment receipt for delivery. Later discussions included invoice payments, purchasing a Swiss watch, and urgent issues with lab quality inspections requiring intervention.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-8-0-d
+
+**Record:**
+*   **Timestamp:** 2022-07-05T12:08:53
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:** Figo Johnson and Quan Xiuan discussed the "party" fee, with instructions for Quan to send photos of a suitcase, drugs, and lab via Leona Powers. Quan was directed to use Signal for secure communication. Figo later sent an email with further instructions.
+*   **Trace ID:** evidence trace 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-1-0-2-7-0-0-1-0-0-88
+
+**Record:**
+*   **Timestamp:** 2022-07-07T08:08:19
+*   **Participants:** Nerijus Bos, Quan Xiuan
+*   **Summary:** Nerijus Bos informed Quan Xiuan of his expected arrival on July 21 and that Joseph would pick him up. Quan confirmed the date.
+*   **Trace ID:** evidence trace 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-1-0-2-0-8-2-6-2e4
+
+**Record:**
+*   **Timestamp:** 2022-07-12T04:45:18
+*   **Participants:** Joseph Prinse, Quan Xiuan
+*   **Summary:** Joseph Prinse requested Quan's flight details and instructed him to message upon landing for pickup. This relates to coordination for arrival logistics.
+*   **Trace ID:** evidence trace 34e8c539-94b9-41bc-95df-fec503e31153:0-0-0-1-0-2-0-8-2-6-2f8
+
+**Record:**
+*   **Timestamp:** 2022-07-08T07:15:16
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie Boudica discussed hiding goods in packages on regular transports, adjusting schedules to avoid checks, and transferring € to NL40 ABNA 665599774. She mentioned issues at the port with Liss using Joseph's car, raising security concerns.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-0-0-2

@@ -1,0 +1,33 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T06:46:38
+*   **Participants:** 35499603375 (Antonio Gotta), Nerijus Bos
+*   **Summary:** Antonio Gotta informs Nerijus Bos they have their first deal with the UK and require assistance arranging an inspection of a "lab" before payment. He requests Nerijus to arrange this.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-08T10:17:11
+*   **Participants:** 35499603375 (Antonio Gotta), Nerijus Bos
+*   **Summary:** Antonio informs Nerijus about a new arrangement for their club in Ibiza, stating that delivered drugs will be paid in Bitcoin. He requests Nerijus to ensure this is completed ASAP.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-12T15:07:32
+*   **Participants:** Nerijus Bos, 35499603375 (Antonio Gotta)
+*   **Summary:** Nerijus confirms receipt of the payment.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-25T11:11:24
+*   **Participants:** 35499603375 (Antonio Gotta), Nerijus Bos
+*   **Summary:** Antonio urgently informs Nerijus that the inspection of the quality of their goods has gone wrong and asks if Nerijus can do what they previously agreed upon.  Nerijus replies "Damn…. On my way." indicating he will address the issue.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-1a
+
+---
+**Record:**
+*   **Timestamp:** 2022-07-20T13:41:28
+*   **Participants:** Liss, Nerijus Bos
+*   **Summary:** Liss receives a warning from Nerijus not to contact the police. Liss responds defensively, asking who Nerijus is and stating they do what they want. Joseph sent them? 
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-29

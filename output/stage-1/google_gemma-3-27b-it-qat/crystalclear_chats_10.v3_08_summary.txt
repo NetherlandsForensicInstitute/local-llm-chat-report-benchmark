@@ -1,0 +1,35 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:15:16
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Discussion of concealing "goods" in packages for transport.  Rosie states the goods are hidden on regular transports and suggests removing checks from the schedule to avoid detection on Fridays due to fewer people at the office. She provides a bank account number **NL40 ABNA 665599774** under the name **Rosie Fashion** for payment of an unspecified amount.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-7-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:**  Rosie informs Nerijus of a problem at the port - Liss has been spotted with one of Joseph's cars at the depot and is being questioned. This indicates potential issues with a shipment or transport operation.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310:0-0-0-1-0-0-c-0-1-0-7-0-8
+
+**Record:**
+*   **Timestamp:** 2022-07-14T14:35:46
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss reports being stopped by police (or border patrol) near the depot while carrying a package. They were asked for papers and are questioning why Joseph’s car is on a watchlist. She expresses concern and frustration over this event.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38
+
+**Record:**
+*   **Timestamp:** 2022-07-18T08:30:42
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss informs Joseph she has contacted her lawyer and will be sending him divorce documents on Monday. She claims to have evidence of his “business” and threatens to go to the police if he doesn’t sign them.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38
+
+**Record:**
+*   **Timestamp:** 2022-07-21T14:45:32
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss states her lawyer confirms that Joseph hasn't contacted them yet and demands he do so today. This follows a series of messages about divorce papers and potential legal action. 
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38
+
+**Record:**
+*   **Timestamp:** 2022-07-22T11:11:06
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss reports that police were at her door and informed her that Joseph has been arrested. She expresses anger and intends to discuss the situation with her lawyer. 
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-0-0-38

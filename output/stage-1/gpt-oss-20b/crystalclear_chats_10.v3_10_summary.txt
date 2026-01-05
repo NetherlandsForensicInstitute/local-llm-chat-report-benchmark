@@ -1,0 +1,11 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T09:12:27
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss and Joseph plan a quick delivery of a package to the store depot on 14 July. They agree that it will be dropped off after Liss’s shift ends at 15:00. At 14:35:46, Liss reports police stopping outside the depot; officers claim the vehicle was on a watchlist and demanded papers but provided no reason. Liss suspects the car was flagged because the package was described as “car parts.” The conversation includes threats of further police action and expresses frustration at being stopped.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-6-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-05T12:08:53
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:** Figo instructs Quan to transfer a suitcase via Marktplaats, pay cash in person to avoid a traceable receipt, and send photos of the suitcase, drugs, and a lab through Leona Powers. Figo also requests Quan create a Signal account for further contact. Earlier messages discuss meeting arrangements and a fee for an event. The conversation contains coded language (“drugs,” “lab”) and coordination instructions for illicit transport.
+*   **Trace ID:** evidence trace a0518702-3584-4b83-a97e-de437493e4de:0-0-0-1-0-0-0-1-1-1-0-19-a-1

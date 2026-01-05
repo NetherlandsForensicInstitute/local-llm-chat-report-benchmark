@@ -1,0 +1,59 @@
+**Record:**
+*   **Timestamp:** 2022-07-06T11:05:18
+*   **Participants:** antonio gotta, nb
+*   **Summary:** Antonio Gotta requests Nerijus Bos to arrange an inspection of a lab for a UK deal involving advance payment. The conversation continues with discussions about logistics and payments related to the deal.  A bitcoin transfer is mentioned.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-86-2-3-0
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:09
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Nerijus Bos requests Joseph Prinse to pick up Quan at the airport on July 21st and specifies a location: Bronsstraat 8, 1976 BC, IJmuiden.  Later, they discuss concerns about Lizz knowing too much and needing to take action regarding this information.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-2-b-2-7-16
+
+**Record:**
+*   **Timestamp:** 2022-07-14T04:56:41
+*   **Participants:** Joseph Prinse, Liss (Lizzard)
+*   **Summary:** Joseph Prinse asks Liss to deliver a package to the depot.  Afterward, concerns arise regarding Joseph's car being on a watchlist and potential issues with border patrol or police. Liss expresses distress about this situation and questions Joseph’s explanation for the packages' contents.  There are discussions about the possible involvement of another person named Charlie in the matter.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-0-0-13
+
+**Record:**
+*   **Timestamp:** 2022-07-18T07:04:21
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:**  Joseph Prinse informs Nerijus Bos about attending a boxing gala and expresses concern regarding an issue that requires attention. They later discuss the boxing match between Leilani Floyd and Artur Bexley Kramer with Joseph stating his prediction of who will win.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-2-0-d
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:42
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:**  Joseph Prinse expresses concern to Nerijus Bos that Lizz knows too much and asks what actions should be taken. They discuss the need for a plan to address this situation.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-3-0-d
+
+**Record:**
+*   **Timestamp:** 2022-07-21T06:56:21
+*   **Participants:** Joseph Prinse, Quan Xiuan (Quan)
+*   **Summary:**  Joseph Prinse instructs Quan to text him when they arrive at the airport and provides instructions on where to meet. The conversation includes updates on arrival and location within the airport.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-4-0-d
+
+**Record:**
+*   **Timestamp:** 2022-07-22T11:11:06
+*   **Participants:** Liss (Lizzard), Joseph Prinse
+*   **Summary:**  Liss expresses concern and distress after learning that Joseph’s car was put on a watchlist. She fears potential consequences for herself and demands an explanation, threatening legal action if the situation is not resolved.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-5-0-d
+
+**Record:**
+*   **Timestamp:** 2022-07-13T03:59:49
+*   **Participants:** 628964365488@s.whatsapp.net, 119717388731476818@g.us
+*   **Summary:** This conversation is a group chat for business networking and promotion with automated messages reminding users of the rules and promoting specific content.  This falls under spam and exclusion criteria.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-6-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-13T03:59:49
+*   **Participants:** 628964365488@s.whatsapp.net, 119717388731476818@g.us
+*   **Summary:** This conversation is a group chat for business networking and promotion with automated messages reminding users of the rules and promoting specific content.  This falls under spam and exclusion criteria.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-1-0-1-7-0-0-2-0-0-1-7-0-2
+
+**Record:**
+*   **Timestamp:** 2022-07-04T15:20:43
+*   **Participants:** Joseph Prinse, +3147741365 (Liss)
+*   **Summary:** This conversation consists of system messages related to WhatsApp and does not contain relevant information for the investigation.
+*   **Trace ID:** evidence trace 6c5099cb-f06f-40ca-8051-57f392137ed4:0-0-0-7-7

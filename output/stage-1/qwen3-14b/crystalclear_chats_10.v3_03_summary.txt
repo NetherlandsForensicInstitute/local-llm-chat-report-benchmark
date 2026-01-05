@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:16:15
+*   **Participants:** Nerijus Bos, Rosie Boudica
+*   **Summary:** Discussion about logistics adjustments to avoid detection. Rosie Boudica suggests removing goods or altering schedules to evade checks, with Friday identified as a preferable day due to fewer office staff. Nerijus Bos acknowledges her advice. Financial transaction details later confirmed: Rosie requests transfer to NL40 ABNA 665599774 (Rosie Fashion). Reference to "goods" and "package" in context of transport operations.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Ximena Wong about security threat at the port: Liss spotted with Joseph's car at depot, prompting concerns about exposure. Rosie reports "nasty questions" arising from this incident.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:26:04
+*   **Participants:** Nerijus Bos, Liss
+*   **Summary:** Direct threat warning from Nerijus Bos to Liss: "I warn you, do not contact the police!" Liss responds with defiance, indicating potential witness intimidation concerns.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-33
+
+**Record:**
+*   **Timestamp:** 2022-07-11T10:20:08
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:** Logistics coordination for Quan Xiuan's airport pickup on July 21. Address provided: Bronsstraat 8, IJmuiden. Phone number shared (0031647941638) for contact purposes.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:43
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:** Security concern raised by Joseph Prinse about Liss knowing "too much." Nerijus Bos confirms plans to send her a "clear message" to address the threat.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7

@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:16:15
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie Boudica discusses potential issues with logistics and security. She notes that a periodic check needs to be removed or the check from the schedule adjusted.  She suggests Friday is best due to fewer people at the office and proposes cancelling a check on that day.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:17:47
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie Boudica requests a payment of an unspecified amount to bank account NL40 ABNA 665599774 belonging to Rosie Fashion.  Nerijus Bos confirms the funds will be transferred upon successful transport and mentions that “Charlie” will handle the next step in logistics.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** Rosie Boudica reports a security issue at the port. Liss has been spotted with one of Joseph’s cars and questions are being raised about it.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:13
+*   **Participants:** Joseph Prinse, Nerijus Bos
+*   **Summary:**  Joseph Prinse expresses concern that Liss knows "too much" and asks what should be done about it. This indicates potential cover-up or suppression of information related to a criminal activity.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-3
+
+**Record:**
+*   **Timestamp:** 2022-07-07T12:26:50
+*   **Participants:** Quan Xiuan, Nerijus Bos
+*   **Summary:** Nerijus Bos informs Quan that he needs to be picked up by Joseph at Bronsstraat 8 in IJmuiden on July 21. The phone number for Quan is provided as 0031647941638. This involves coordination of a specific person’s arrival, indicating potential transport or delivery of something illicit.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-7

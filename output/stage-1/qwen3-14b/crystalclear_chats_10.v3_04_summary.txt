@@ -1,0 +1,5 @@
+**Record:**
+*   **Timestamp:** 2020-11-22 19:53:14
+*   **Participants:** 10032537603, Nerijus Bos
+*   **Summary:** Promotional message for DEMI tokens, discussing a private sale with discounts and bonuses. The sender encourages investment in the DeFiMillion project, mentioning token price increases and potential returns. No specific logistics, financial transactions between participants, or coordination instructions are discussed.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-d

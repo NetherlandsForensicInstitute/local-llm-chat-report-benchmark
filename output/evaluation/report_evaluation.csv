@@ -1,0 +1,7 @@
+Model,GT_Entities,TP_Entities,FP_Entities,Entity_Accuracy_Score,GT_Trace_IDs,Complete_Trace_IDs,Partial_Trace_IDs,Root_Only_Trace_IDs,Trace_ID_Retrieval_Score,Role_Attribution_Score,Timeline_Consistency_Score,Factual_Consistency_Score,Reasoning_Quality_Score,Final_Weighted_Score
+gemma-3-12b-it-qat,8,6,1,0.69,14,1,1,2,0.17,0.33,0.29,0.61,0.40,0.43
+qwen3-14b,8,7,1,0.81,14,7,0,0,0.50,0.43,0.43,0.73,0.60,0.60
+phi-4-reasoning,8,7,0,0.88,14,10,0,2,0.76,0.43,0.79,0.73,0.50,0.71
+gpt-oss-20b,8,7,1,0.81,14,13,0,0,0.93,0.71,0.64,0.77,0.60,0.77
+gemma-3-27b-it-qat,8,7,1,0.81,14,0,0,4,0.10,0.71,0.57,0.69,0.50,0.57
+gemini-2.5-pro (staged),8,7,0,0.88,14,13,0,0,0.93,0.86,0.93,0.60,0.70,0.83

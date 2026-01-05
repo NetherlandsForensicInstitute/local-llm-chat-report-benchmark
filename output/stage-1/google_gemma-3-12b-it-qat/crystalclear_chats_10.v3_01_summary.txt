@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-04T12:24:24
+*   **Participants:** Nerijus Bos, Rosie Boudica (Rosie)
+*   **Summary:** A series of messages discussing logistics and potential issues with "mules" being used for transport. Rosie suggests using freight routes instead due to concerns about periodic checks. They discuss removing "goods," canceling checks, and adjusting schedules related to July 15th.  Rosie mentions transferring **Eleanor Reyes's** to account **NL40 ABNA 665599774 of Rosie Fashion**. The conversation also includes a report of trouble at the port with Liss spotted with Joseph’s car at the depot.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+
+**Record:**
+*   **Timestamp:** 2022-07-13T11:12:26
+*   **Participants:** Rosie Boudica (Rosie), Nerijus Bos
+*   **Summary:** Rosie reports an email request is done and asks about the amount of **Eleanor Reyes's** to be transferred. Nerijus indicates he will transfer the money if transport is successful and mentions that a third person, **"Charlie,"** will handle the next step.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:15:25
+*   **Participants:** Rosie Boudica (Rosie), Nerijus Bos
+*   **Summary:** Rosie reports trouble at the port. Liss has been spotted with one of Joseph's cars at the depot, causing "nasty questions." Nerijus expresses concern ("Ohh shit, this isn’t meant to happen!!").
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-a-b-c
+
+**Record:**
+*   **Timestamp:** 2022-07-20T12:10:43
+*   **Participants:** Nerijus Bos, Joseph Prinse
+*   **Summary:**  Joseph expresses concern that Liss "knows too much." Nerijus states he will send her a clear message.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-1-0-0-0-2-1-1-0-24-a-4
+
+**Record:**
+*   **Timestamp:** 2022-07-06T12:59:17
+*   **Participants:** Nerijus Bos, Jessica Mark
+*   **Summary:** Conversation regarding cryptocurrency investments. Jessica promotes "Maren Wise investment company" and provides a link for registration, suggesting it can generate daily income. Nerijus asks for the link and expresses interest in the platform.
+*   **Trace ID:** evidence trace bca33c09-0be5-4729-9c2a-1634e5e20915:0-0-0-7-10

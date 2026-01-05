@@ -1,0 +1,29 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T14:35:46
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss reports being stopped by police or border patrol outside the depot while attempting to deliver a package. She states the car was on a watchlist and she had to present papers. The package was intended for delivery to the store depot, the same location as previous deliveries. Joseph confirms this is the correct location. Liss expresses concern and asks why her car would be flagged, suspecting it's related to the packages and questioning Joseph about their contents, believing they should have been identified as car parts.  She indicates a frantic state, expressing fear and demanding an explanation.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-4-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-14T15:27:02
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Following the incident at the depot, Joseph instructs Liss to grab a cup of coffee and encourages her to return home if it's safe. He advises her not to be followed and to take the long route home. This exchange indicates concern for Liss’s safety after the traffic stop.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-5-0-5
+
+**Record:**
+*   **Timestamp:** 2022-07-18T07:06:50
+*   **Participants:** Joseph Prinse, Liss
+*   **Summary:** Joseph expresses frustration with Liss, stating "That’s about time" and that he was bored of her. This indicates a deterioration in their relationship following the previous events concerning the package delivery and police interaction.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-6-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-20T21:14:38
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss reports that one of Joseph’s buddies is threatening her with texts and demands that he tell the friend to stop. She states she has his number and will go straight to the police if things don't go as she wants, indicating escalating threats and a willingness to involve law enforcement.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-7-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-22T11:11:22
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss informs Joseph that police were at her door saying he has been arrested. She expresses anger and states she will discuss the matter with her lawyer and has no further business with him. This confirms Joseph's arrest and Liss’s intention to sever ties due to his actions.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-8-0-1

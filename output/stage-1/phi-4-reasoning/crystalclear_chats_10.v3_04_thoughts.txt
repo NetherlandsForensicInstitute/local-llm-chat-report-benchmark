@@ -1,0 +1,73 @@
+We have a long conversation text that looks like a raw log of messages containing various crypto project announcements, tokens etc. Our job is to extract only conversations relevant to criminal investigation? Wait instructions: "Your task is to identify and extract every conversation that matches the Inclusion Criteria" with exactly the format "Record:" blocks.
+
+We need to follow steps:
+- We must scan through provided raw chat logs from a single device.
+- The inclusion criteria for extraction are:
+   - Logistics & Transport discussions (discussions of shipments, package deliveries, routes, pickups, depots, addresses).
+   - Financial Transactions: Discussions of payments, bank accounts, large sums.
+   - Coded Language: using suspicious code words ("goods", "lab", "package", "party") etc.
+   - Coordination & Instructions: giving orders or assignments
+   - Threats & Security: mentions police, getting caught, witness intimidation, secure communications.
+
+We must ignore messages that are spam/advertisements and crypto token marketing. Many messages in the log seem to be cryptocurrency project announcements and promotions. We need to extract conversations if they include any of these topics.
+Let’s scan raw chat logs:
+The provided text is long with many messages from "10032537603" to "Nerijus Bos", but we must check if any conversation message mentions logistics, transport, financial transactions, coded language (like goods, lab, package, party) or coordination/instructions or threats/security. 
+
+Looking at the log:
+
+It seems the majority of text is crypto announcements, promotion messages, token sale info, and similar. Let's search for keywords that match our inclusion criteria.
+
+Inclusion Criteria:
+1. Logistics & Transport: Discussions of shipments, package deliveries, routes, pickups, depots, addresses.
+2. Financial Transactions: Discussions of payments, bank accounts, or large sums of cash between participants.
+3. Coded Language: Using suspicious code words ("goods," "lab", "package", "party").
+4. Coordination & Instructions: Giving orders/assigning tasks.
+5. Threats & Security: Mentioning police, getting caught, witness intimidation, secure communications.
+
+We check each message:
+
+The raw log is huge and many messages are from "10032537603" to "Nerijus Bos". They all seem to be crypto announcements (DeFi, tokens, etc.). The content includes many mentions of token sale addresses, websites, instructions on how to buy tokens. But none seems to include logistics & transport details? There is no message that mentions shipments, routes etc.
+
+Maybe we check if any mention "package" or "lab" in coded language: 
+- There's a message: "Are you looking to invest in the best DeFi project?" It is advertisement. Not relevant.
+- The conversation includes many messages with tokens and promotions. None seem to include any suspicious code words like "goods", "lab", "package", "party"? I see one instance: "Are you looking to invest in the best DeFi project? Stop searching we are here.. 🔥🔥" but it's advertisement.
+- They mention DEMI tokens, Rocket Network, etc. They talk about payment instructions "50% bonus", "investment", but no mention of specific bank accounts or payments between participants.
+
+- There is a message: "What is the next token that are going to pump?" It seems crypto hype.
+
+- There's also a conversation: "The Dream1 Zoey Lang" announcement, "Rocket Network", etc.
+- I do not see any explicit financial transactions discussing large sums of cash between individuals. They mention token prices and bonuses but it's not a criminal investigation conversation; they are simply advertisement for tokens.
+
+- Also check "Coordination & Instructions": messages that instruct participants to perform tasks like join Clayton Hoover groups, fill forms, etc. But these appear to be marketing instructions not criminal coordination.
+
+- Threats & Security: They mention secure communications sometimes? For example "use secure communication methods"? I don't see any message referencing police or witness intimidation.
+
+- The entire conversation appears to be about crypto and token sales, which are spam/advertisement messages. They do not match the inclusion criteria (they are all ads). So likely none should be extracted because they're excluded by our inclusion criteria?
+
+Wait instructions: "Your task is to identify and extract every conversation that matches the Inclusion Criteria." But what if none of them match? Possibly we output nothing.
+
+We must only output Record blocks exactly. 
+Therefore, answer is nothing. But check further messages:
+
+The entire log seems like a huge cryptocurrency advertisement spam. They do not mention any "goods", "lab", "package", etc in suspicious code words context that might be related to criminal investigations maybe money laundering? Possibly the instructions require us to extract only if it's about logistics & transport, financial transactions between participants, coded language, coordination/instructions, threats security.
+
+None of these messages are about shipments or deliveries. They are crypto project announcements and token sale promotions which are EXCLUSION CRITERIA (advertisements, crypto airdrops etc.). They are not criminal investigation relevant?
+
+Thus output is nothing.
+However, we must check if any message contains "Logistics & Transport" details such as addresses? There's one with "depot in [location]" maybe: Check the provided sample record example. But none of the messages include actual logistics conversation.
+
+The provided text includes many messages like "DeFi Million launch a bonus program", "DEMI token", "Rocket Network presale", etc, which are clearly crypto advertisements.
+
+Therefore answer is no records.
+
+So final output should be empty? The instructions say: "Your entire output MUST ONLY consist of Record blocks." If none match, then we output nothing (or just nothing).
+
+Thus final answer is an empty message. But must check if any conversation message mentions "DEMI token" transactions that are financial transactions between participants? They mention "Andi Cordova $2,500 get 10% bonus", but that's not a criminal investigation. It is crypto promotion and spam.
+
+Yes, they fall under Exclusion Criteria: "Spam & Advertisements." So we ignore them.
+
+I must output nothing if no conversation qualifies. Therefore final answer should be empty, i.e. no Record blocks.
+
+Thus final answer: (No records found)
+
+I'll output nothing.

@@ -1,0 +1,11 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T11:17:04
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss and Joseph Prinse coordinated the delivery of a package to a "store depot," with Joseph confirming it was the same location as previous deliveries. Liss agreed to deliver the package after 15:00 on her lunch break but later reported being stopped by police or border patrol outside the depot, where she was questioned about a car on a watchlist. She expressed frustration over Joseph's involvement in suspicious activities (referencing "car parts") and demanded explanations.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1
+
+**Record:**
+*   **Timestamp:** 2022-07-18T08:30:42
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** Liss threatened to involve the police and cited having evidence of Joseph's "so-called business" after he refused to sign divorce documents. She demanded he finalize the paperwork by Monday and warned of legal action if he failed. Joseph responded with insults and threats, including claims that she was "out of her mind" and accused her of making his life miserable.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d:0-0-0-1-0-0-6-0-3-0-1

@@ -1,0 +1,32 @@
+**Record:**
+*   **Timestamp:** 2022-07-14T13:14:07
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:** Figo Johnson initiates contact with Quan Xiuan on Signal after previously instructing him to obtain a Signal account. He asks if Quan Xiuan wants to meet up and receives a negative response due to college commitments.  Later, Figo inquires about expected photos of the suitcase, drugs and lab that he requested earlier.
+*   **Trace ID:** a0518702-3584-4b83-a97e-de437493e4de:0-0-0-6-11
+
+**Record:**
+*   **Timestamp:** 2022-07-05T12:08:53
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:**  Figo Johnson asks Quan Xiuan if he wants to meet again or if he has enough information. Quan responds that he knows enough and thanks Figo. Later in the conversation, Figo sends instructions for a "family visit", specifically requesting the purchase of a suitcase with cash to avoid traceable receipts, photos of the suitcase via Leona Powers, as well as photos of drugs and a lab via Leona Powers. He also instructs Quan to get a Signal account.
+*   **Trace ID:** a0518702-3584-4b83-a97e-de437493e4de:0-0-0-6-c
+
+**Record:**
+*   **Timestamp:** 2022-07-11T08:34:23
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:**  Figo Johnson provides specific instructions to Quan Xiuan regarding a “family visit,” requesting he purchase a suitcase using cash via Marktplaats and send photos of the suitcase, drugs, and lab through Leona Powers. He also instructs Quan to create a Signal account for further communication.
+*   **Trace ID:** a0518702-3584-4b83-a97e-de437493e4de:0-0-0-6-1
+
+**Record:**
+*   **Timestamp:** 2022-07-14T13:14:07
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:** Figo Johnson initiates contact with Quan Xiuan on Signal after previously instructing him to obtain a Signal account. He asks if Quan Xiuan wants to meet up and receives a negative response due to college commitments.
+*   **Trace ID:** a0518702-3584-4b83-a97e-de437493e4de:0-0-0-6-11
+
+**Record:**
+*   **Timestamp:** 2022-07-26T06:07:50
+*   **Participants:** Figo Johnson, Quan Xiuan
+*   **Summary:**  Figo Johnson follows up with Quan Xiuan asking for the expected photos he previously requested.
+*   **Trace ID:** a0518702-3584-4b83-a97e-de437493e4de:0-0-0-6-11
+
+
+

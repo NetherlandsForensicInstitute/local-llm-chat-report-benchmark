@@ -1,0 +1,17 @@
+**Record:**
+*   **Timestamp:** 2022-07-08T07:15:16
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** In a discussion concerning a shipment, the parties coordinate the concealment of “goods” within regular transport packages to avoid periodic checks. They agree on timing (preferably Friday when fewer people are at the office) and propose canceling or adjusting scheduled inspections. Later in the exchange, one party confirms that an email request is complete, discusses transferring funds – specifically arranging a transfer to account NL40 ABNA 665599774 for “Rosie Fashion” – with the condition that payment will be made only if the transport operation succeeds.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310
+
+**Record:**
+*   **Timestamp:** 2022-07-15T07:45:25
+*   **Participants:** Rosie Boudica, Nerijus Bos
+*   **Summary:** In a separate segment of their conversation, one participant reports trouble at the port. The report details that Liss was spotted with one of Joseph’s cars at the depot and indicates that police (or border patrol) stopped her vehicle—citing it was on a watchlist—and demanded papers without explanation. This incident raises immediate security concerns for the operation.
+*   **Trace ID:** evidence trace 2fbd9c9e-e242-46cb-910f-64c7c314b310
+
+**Record:**
+*   **Timestamp:** 2022-07-04T15:29:59
+*   **Participants:** Liss, Joseph Prinse
+*   **Summary:** The conversation begins with scheduling a package delivery to a “store depot” during Liss’s lunch break. Later, after agreeing on the drop-off details (with reference to previous depot arrangements), an incident occurs when the vehicle is stopped by police – the car being flagged on a watchlist and papers demanded without explanation. The discussion escalates into explicit threats: one party threatens legal action including presenting divorce documents and involving the lawyer, while also warning that failure to comply will result in going directly to the police. These exchanges reflect both operational coordination (delivery instructions) and significant security and threat issues.
+*   **Trace ID:** evidence trace 9194b1ef-8411-4295-a793-0d4475f95d2d
