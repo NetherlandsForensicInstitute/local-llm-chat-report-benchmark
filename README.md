@@ -1,6 +1,6 @@
-# Global vs Local LLM — Reproduction Guide
+# Structured Report Generation using Local LLMs for Chat-Based Digital Forensics — Reproduction Guide
 
-This repository contains the code, prompts, and instructions to reproduce the experiments behind our paper submitted to **[DFRWS EU 2026](https://dfrws.org/conferences/dfrws-eu-2026/)**.
+This repository contains the code, prompts, and instructions to reproduce the experiments behind our paper submitted to the DFDS symposium which is hosted at the **[DFRWS EU 2026](https://dfrws.org/conferences/dfrws-eu-2026/)**.
 
 > Order of operations: **Experiment 1 (ground truth)** → **Dataset split** → **Experiment 2 / Stage 1** → **Experiment 2 / Stage 2** → **Evaluation** → **Figures** → **Appendices**.
 
