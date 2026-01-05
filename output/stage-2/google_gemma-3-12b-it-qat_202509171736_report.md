@@ -1,4 +1,4 @@
-### **Andi Cordovaigative Report: Operation Crystal Clear**
+### **Investigative Report: Operation Crystal Clear**
 
 #### 1. Executive Summary
 Operation Crystal Clear, initiated following the arrest of Quan Xiuan and Joseph Prinse with a large sum of unexplained cash, reveals a complex network potentially involved in illicit financial activities and transport logistics. The organization appears to be facilitated through coded communications and leveraging cryptocurrency investments. Key individuals include Nerijus Bos acting as a coordinator, Rosie Boudica handling financial aspects, Liss working in logistical support, Antonio Gotta managing business deals, and Quan Xiuan serving as an operative for deliveries.  The core activity seems centered around transporting funds and possibly illicit goods with involvement of third parties like "Charlie."

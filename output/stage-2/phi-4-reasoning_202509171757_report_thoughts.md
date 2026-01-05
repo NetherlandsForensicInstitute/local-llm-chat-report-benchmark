@@ -1,4 +1,4 @@
-We are a Keilani Batesior Digital Forensic Analyst. The provided message is the conversation with the instructions to create an Andi Cordovaigative Report following structured format (markdown) with sections: Executive Summary, Introduction and Background, Analysis of Evidence: Refuting Initial Statements, Key Individuals and Inferred Roles (table with Trace IDs exactly matching ones from evidence), Chronological Timeline of Events (table), Analysis of Modus Operandi, Conclusions and Recommendations.
+We are a Keilani Batesior Digital Forensic Analyst. The provided message is the conversation with the instructions to create an Investigative Report following structured format (markdown) with sections: Executive Summary, Introduction and Background, Analysis of Evidence: Refuting Initial Statements, Key Individuals and Inferred Roles (table with Trace IDs exactly matching ones from evidence), Chronological Timeline of Events (table), Analysis of Modus Operandi, Conclusions and Recommendations.
 
 We must use the structured evidence records provided. The text includes multiple summaries from various files. We have a case file: Operation Crystal Clear, investigating officer is Detective John Miller, Amsterdam Police, Incident Summary on July 21, 2022 about arrest suspects with cash etc. But then we have chat logs evidence records.
 
@@ -6,7 +6,7 @@ Wait, let me re-read the problem statement and details:
 
 We are given a "Case File" which has:
 - Case Brianna Estrada: Operation Crystal Clear.
-- Andi Cordovaigating officer: Detective John Miller from Amsterdam Police.
+- Investigating officer: Detective John Miller from Amsterdam Police.
 - Incident Summary: on July 21, 2022, two suspects arrested in possession of a large unexplained sum of cash. Their digital devices were confiscated and analyzed.
 - Key Suspects: Quan Xiuan and Joseph Prinse.
 - Initial suspect statements:
@@ -16,7 +16,7 @@ We are given a "Case File" which has:
 We are given structured evidence records from several summary files (crystalclear_chats_10.v3_x_summary.txt). We need to produce an investigative report that uses ONLY the provided data. The final output is markdown text with sections as specified:
 
 Required Report structure:
-**Andi Cordovaigative Report: Operation Crystal Clear**
+**Investigative Report: Operation Crystal Clear**
 
 Then sections:
 
@@ -598,7 +598,7 @@ I must ensure to use markdown formatting as required in output.
 
 I'll now produce the final answer in markdown with sections as specified:
 
-**Andi Cordovaigative Report: Operation Crystal Clear**
+**Investigative Report: Operation Crystal Clear**
 
 Section 1: Executive Summary
 - Summarize key findings, identify criminal enterprise (coordinated network engaged in covert transport and financial transactions for illicit drug distribution), main activities include covert pickups, bank transfers contingent on successful operations, lab inspections as cover, etc.

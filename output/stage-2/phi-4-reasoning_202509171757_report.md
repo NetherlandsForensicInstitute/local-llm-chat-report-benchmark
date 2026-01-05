@@ -2,7 +2,7 @@
 
 ---
 
-# Andi Cordovaigative Report: Operation Crystal Clear
+# Investigative Report: Operation Crystal Clear
 
 ## 1. Executive Summary
 The investigation has uncovered a coordinated criminal enterprise engaged in covert transport, illicit financial transactions, and drug distribution. Digital communications reveal that key individuals work together to arrange pickups, conceal shipments via scheduled adjustments (e.g., canceling periodic checks on Fridays), and employ coded language for operational security. The evidence directly contradicts the initial suspect statements: Quan Xiuan’s claim of a family inheritance for studies or gambling debts is belied by records showing his involvement in July 21 pickup arrangements, while Joseph Prinse’s assertion of performing standard client pickups is undermined by detailed instructions and security concerns regarding airport pickups and covert meetings.

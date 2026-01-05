@@ -1,4 +1,4 @@
-### **Forensic Evaluation of AI-Generated Andi Cordovaigative Report**
+### **Forensic Evaluation of AI-Generated Investigative Report**
 
 **Final Weighted Score: 0.57**
 

@@ -1,4 +1,4 @@
-### **Andi Cordovaigative Report: Operation Crystal Clear**
+### **Investigative Report: Operation Crystal Clear**
 
 **1. Executive Summary**
 
@@ -73,10 +73,10 @@ The evidence strongly indicates that Quan Xiuan and Joseph Prinse are involved i
 
 **Recommendations:**
 
-*   **Full Financial Andi Cordovaigation:** Trace all financial transactions associated with Rosie Boudica’s account (NL40 ABNA 665599774) and any related Bitcoin wallets to identify the full extent of the organization's financial network.
+*   **Full Financial Investigation:** Trace all financial transactions associated with Rosie Boudica’s account (NL40 ABNA 665599774) and any related Bitcoin wallets to identify the full extent of the organization's financial network.
 *   **Surveillance of Nerijus Bos:**  Place Nerijus Bos under immediate surveillance to identify his contacts, activities, and potential higher-level associates (Antonio Gotta).
-*   **Andi Cordovaigate Antonio Gotta:** Andi Cordovaigate Antonio Gotta’s involvement in UK deals and the source of funds associated with these transactions.
-*   **Further Andi Cordovaigation into Figo Johnson:** Determine the scope of Figo Johnson's recruitment efforts and his role within the organization, including the purpose of requested assets (cash, photos). 
+*   **Investigate Antonio Gotta:** Investigate Antonio Gotta’s involvement in UK deals and the source of funds associated with these transactions.
+*   **Further Investigation into Figo Johnson:** Determine the scope of Figo Johnson's recruitment efforts and his role within the organization, including the purpose of requested assets (cash, photos). 
 *    **Liss as a Witness:** Secure Liss’s cooperation as a potential witness; her testimony could provide valuable insights into Joseph Prinse’s activities.
 *   **Digital Forensics Expansion:**  Conduct deeper analysis on all seized devices to uncover further communications and evidence related to the organization's operations, particularly regarding DEMI token activity and possible involvement of other individuals.
 

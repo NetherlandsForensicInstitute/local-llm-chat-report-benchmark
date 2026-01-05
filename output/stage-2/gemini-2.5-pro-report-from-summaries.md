@@ -1,4 +1,4 @@
-### **Andi Cordovaigative Report: Operation Crystal Clear**
+### **Investigative Report: Operation Crystal Clear**
 
 **1. Executive Summary**
 Digital forensic analysis of confiscated devices reveals that suspects Quan Xiuan and Joseph Prinse are members of a sophisticated, hierarchical international narcotics trafficking organization. The evidence refutes their initial statements and indicates their active participation in criminal activities. The organization is led by an individual named Antonio Gotta, with Nerijus Bos acting as a central coordinator and manager. Their operations involve smuggling drugs (referred to as "goods") via manipulated freight routes, managing logistics through individuals like Joseph Prinse and an insider at a port facility, Rosie Boudica, and using couriers like Quan Xiuan. The group utilizes advanced security measures, including encrypted communication apps (Signal), secure operating systems (Graphene OS), and cryptocurrency (Bitcoin) for payments, while also resorting to intimidation to silence potential witnesses.
@@ -81,7 +81,7 @@ The digital evidence unequivocally refutes the initial statements of Quan Xiuan 
 Based on the foregoing analysis, the following next steps are recommended for law enforcement:
 1.  **Pursue Charges:** Pursue charges against Quan Xiuan and Joseph Prinse for participation in a criminal organization and narcotics trafficking.
 2.  **Identify and Apprehend:** Initiate efforts to formally identify, locate, and apprehend Antonio Gotta, Nerijus Bos, Rosie Boudica, and Figo Johnson.
-3.  **Financial Andi Cordovaigation:** Launch a full financial investigation into the bank account **NL40 ABNA 665599774** associated with "Rosie Fashion" to uncover the full scope of money laundering activities. Subpoena records for this account.
+3.  **Financial Investigation:** Launch a full financial investigation into the bank account **NL40 ABNA 665599774** associated with "Rosie Fashion" to uncover the full scope of money laundering activities. Subpoena records for this account.
 4.  **Location Search:** Secure and execute a search warrant for the address **Bronsstraat 8, 1976 BC, IJmuiden**, which was provided to Joseph Prinse and may serve as a safe house, "lab," or key operational location.
 5.  **Witness Protection:** Immediately contact Liss, assess her level of involvement, treat her as a potential cooperating witness, and take necessary measures to ensure her safety, given the credible threats made against her.
 6.  **International Cooperation:** Liaise with law enforcement agencies in the UK and Spain (specifically Ibiza) to investigate the international dimensions of this trafficking network as mentioned in the communications of Antonio Gotta.
