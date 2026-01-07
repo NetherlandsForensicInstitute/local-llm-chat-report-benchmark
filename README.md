@@ -4,7 +4,7 @@ This repository contains the code, prompts, and instructions to reproduce the ex
 
 > Order of operations: **Experiment 1 (ground truth)** → **Dataset split** → **Experiment 2 / Stage 1** → **Experiment 2 / Stage 2** → **Evaluation** → **Figures** → **Appendices**.
 
-- 📄 **Draft paper (PDF):** [`DFRWS2026EU.pdf`](DFRWS2026EU.pdf)
+- 📄 **Draft paper (PDF):** [`DFRWS2026EU Structured Report Generation using Local LLMs for Chat-Based Digital Forensics.pdf`](DFRWS2026EU Structured Report Generation using Local LLMs for Chat-Based Digital Forensics.pdf)
 
 ---
 
